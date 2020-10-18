@@ -303,7 +303,7 @@ Pour démontrer le caractère d'intérêt général, que l'association accorde, 
 
 
 * il sera possible d'identitifer chaque votant, ce vote n'est donc pas anonymisé. Il s'agit cependant de voter pour prioriser des tâches techniques, relativement loin de choses telles que des opinions politiques ou religieuses, par exemple.
-* le nombre total de votes (de "pouces haut"), est automatiquement réalisé par https://github.com,commelemontre cet exemple :
+* le nombre total de votes (de "pouces haut"), est automatiquement réalisé par https://github.com, comme le montre cet exemple :
 
 
 ![nb total votes](images/statuts/modalites/vote-taches/nb-total-pouces-hauts.png)
