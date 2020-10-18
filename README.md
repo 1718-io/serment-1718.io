@@ -177,7 +177,7 @@ Avant d'exposer mon idée, je vais énoncer de manière concise, les quelques co
 * Lorsqu'un mouvement majeur de Citoyens Français, se constitue, pour une cause commune, un paradoxe apparaît :
   * Il est statiquement certain, qu'un nombre significatif de professionnels des technologies de l'information, adhèrent à la cause du mouvement, et travailleraient volontiers bénévolement.
   * Et pourtant, aucune organisation d'équipe "technologique", même petite, ne se constitue.
-* J'ajouterai que le constat fait pour le cas d'un mouvement majeur de Citoyens Français, s'applique encore plus durement, à un grand nombre d'associations à but non-lucratif, qui chacune indépendamment, essaient de faire avancer une question particulière, dont la plupart des Français ne pourrait penser "que du bien". Par exemple, la condition des non-voyants dans la Société Française, je suis certain que vous trouveriez des dizaines d'exemples en quelques minutes.
+* J'ajouterai que le constat fait pour le cas d'un mouvement majeur de Citoyens Français, s'applique encore plus durement, à un grand nombre d'associations à but non-lucratif, qui chacune indépendamment, essaient de faire avancer une question particulière,  dont la plupart des Français ne pourraient penser "que du bien". Par exemple, la condition des non-voyants dans la Société Française, je suis certain que vous trouveriez des dizaines d'exemples en quelques minutes.
 
 L'ensemble de ces constations peut s'expliquer par l'idée que je vais expliquer en l'exposant "à l'envers" : je vais d'abord montrer comment cette idée résoud le paradoxe déjà plusieurs fois mentionné, pour ensuite dévoiler pleinement cette idée, son concept.
 
