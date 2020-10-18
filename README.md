@@ -61,7 +61,7 @@ Tiens, c'est marrant, il y a une chose que les médecins, ont, que nous, n'avons
 
 Ah, tiens, c'est marrant, il y a les avocat aussi dans ce cas (le secret professionnel garanti par la Loi, l'ordre professionnel, etc...)
 
-Voilà la toute première étape de la naissance de cette idée. Nous verrons plsu tard, qu'il y a là des éléments,mais insuffisants, pour trouver "la recette magique des médecins"
+Voilà la toute première étape de la naissance de cette idée. Nous verrons plus tard, qu'il y a là des éléments,mais insuffisants, pour trouver "la recette magique des médecins"
 
 #### La communauté de l'Anneau
 
@@ -69,7 +69,7 @@ Les années se passent, je continue mon parcours professionnel, et je vis dans l
 
 Et je ressens à titre personnel, une frustration, en tant que citoyen :
 
-* d'une part je vois, j'entends, une majorité des gens que je fréquente, croise, au quotidien, convenir qu'il est certain, que l'avenir est sombre pour les citoyens Français, les membres de notre société. Que nous perdront de plus en plus de droits, de richesse, de possibilités professionnelles, etc., etc.... Chacun pourra allonger la liste.MAis entout cas, ce que je vois de commun, c'est que tous pensent que "tout va se dégrader, jamais s'amélirer."? Que l'avenir est sombre, etsera,deplsu en plus sombre.
+* d'une part je vois, j'entends, une majorité des gens que je fréquente, croise, au quotidien, convenir qu'il est certain, que l'avenir est sombre pour les citoyens Français, les membres de notre société. Que nous perdront de plus en plus de droits, de richesse, de possibilités professionnelles, etc., etc.... Chacun pourra allonger la liste.MAis entout cas, ce que je vois de commun, c'est que tous pensent que "tout va se dégrader, jamais s'amélirer."? Que l'avenir est sombre, etsera,deplus en plus sombre.
 * d'autre part, n'ayant jamais été défaitiste, reste constamment en moi une voix qui dit : "Bon, ok, imaginons que cesoitbien lecas, que l'avenir est sombre. Mais alors, si on le sait, ne serait-ilpas naturelde sedire qu'en conséquence, nous allons faire quelque chose, pour changer cela??"
 
 Faisant ce constat, jemedis alors :
@@ -198,10 +198,10 @@ connaissances, avec une rigueur professionnelle, il est nécessaire, qu'un contr
 
 Vous pourrez tourner, retourner l'idée autant que nécessaire, je dis qu'appliquer une telle rigueur dfe niveau professionnelle, une éthique est extrêment exigeant, quelque soit la profession, et que peu importe la valeur moreal de cahque individu, pour qu'ils trouvent la force, les raisons, à chaqu emoement de doute, de continuer, à appliquer cette rigueur professionnelle, il ont besoin, qu'un contrat soit clairement établit.
 
-Dit de manière imagée, il faut, que dans les moments les plsu difficiles à supporter, il existe toujours une raison, indépendante des circontstances du moment, une bonne raison, pour continuer, malgré les difficultés, à s'appliquer une rigueur professionnelle, età respecter une éthique.
+Dit de manière imagée, il faut, que dans les moments les plus difficiles à supporter, il existe toujours une raison, indépendante des circontstances du moment, une bonne raison, pour continuer, malgré les difficultés, à s'appliquer une rigueur professionnelle, età respecter une éthique.
 
 Dit de manière plus scientifique, en présence d'un contrat clairement établit, la proportion des humains qui continuent à s'appliquer une rigeur professionnelle, est beaucoup plus grande
- qu'en l'absence d'un tel contrat. "Je me suis engagé, j'ai lu les termesdu contrats, et j'ai été d'accord avec ceux-ci, c'est une bonne raison de continuer."
+ qu'en l'absence d'un tel contrat. "Je me suis engagé, j'ai lu les termes du contrats, et j'ai été d'accord avec ceux-ci, c'est une bonne raison de continuer."
 
 
 
@@ -235,7 +235,7 @@ Voici quelle donc enfin cette idée, épurée :
 * ce qui fait que les tentatives précédentes ont toutes échouées, pour la mise au service de l'intértêt général, des professionnels des technologies de l'information
 * c'est qu'il n'y a jamais d'établissement d'un contrat clair, et pour cause :
   * la médecine est une corporation vieielle d'au moins deux mille ans, là où les professions des technologies de l'infromation existent depuis moins de 80 années, depuis Alan Türing au maximum.
-  * de mêmla profesion d'avocat esticomparablement plsu ancienne, que totue profession des métiers des technlogies de l'infromation.
+  * de mêmla profesion d'avocat esticomparablement plus ancienne, que totue profession des métiers des technlogies de l'infromation.
 * **Eurêka! voilà, ce qu'il manque pour que la tentative réussise** :
   * **un contrat clair**
 
@@ -243,7 +243,7 @@ Dès lors, se rappellant que ce dont nous parlons, est un contrat social :
 * nous nous rappelons que ce contrat ne peut s'établir formellement que par l'inscription dans la Loi
 * et nous pourrions nous dire que la route est longue, avant de pouvoir espérer pouvoir obtenir la moindre action significative de citoyen professionnels des technlogies de l'information, concrète, au service des citoyens.
 * et je dis que cela est totlament, faux, qu'au contraire, il est posible de le mettre en oeuvre très rapidement, dès aujourd'hui :
-  * en effet, la première chose,laplsu importante, dans un cotnrat, est le respect, par les pairtes, de l'échange des contreparties
+  * en effet, la première chose,laplus importante, dans un cotnrat, est le respect, par les pairtes, de l'échange des contreparties
   * hors le problème n'est pas aujorud'hui un papier, mais le fait que nosu n'avons pensé **qu'une seule** des contreparties de ce contrat, en effet :
     * les deux dsignataires du ocntrats sont : les Citoyens Français d'une part, et les professiionnels des technolgies de l'information d'autre part
     * et quelles sont les contreparties échangées, envisagées jusqu'aujourd'hui ?
@@ -264,9 +264,9 @@ Le Seul Souverain légitime, à accorder un tel privilège, à anoblir notre pro
 
 Le seul Roy de France.
 
-Voilà pourquoi j'ai intitulé "le Retour du Roy", cette dernière partie : parce que son objet final, et faire revenir le Roy de France, le suprêmpovoir dans les mains de son seul détenteur légitime : LE Peuple Français.
+Voilà pourquoi j'ai intitulé "le Retour du Roy", cette dernière partie : parce que son objet final, et faire revenir le seul Roy de France, le Peuple Français, en déposant dans ses mains, la souveraineté en matière de technologies de l'information.
 
-De déposer la Souveraineté, en matière de technolgies de l'information, dans les mains du Roy, pour lui prêter allégeance, et obtenir l'anoblessement.
+De déposer la Souveraineté, en matière de technolgies de l'information, dans les mains du Roy, pour lui prêter allégeance, et obtenir en retour l'anoblissement, de notre Profession.
 
 
 Bien, oui, c'est une idée puissante, extraordinairement puissante, uen idée qui n'a jamais été énoncée, nulle part, si clairement, en relation avecle conept de cocntrat social.
@@ -290,7 +290,7 @@ Cela semble encore abstrait, mais j'insiste encore plus fort, cette fois dans l'
     * Mais je rappelle que jusqu'aujourd'hui, **aucune** contrepartie, des Citoyens Français, vers les professionnels n'a jamais été pensée.
     * Alors certes, les Citoyens Français d'une première expérience, ne pourront rien accorder sur le thème "lanceurs d'alerte", mais , partant de rien, nous pouvons au moins changerla situation, et penser une contreparite (au lieu de rien du tout) : "faire avec ce que nous avons déjà, à écahnger"
 
-Eh bien voilà, nous y sommes, il sagit d'établir un premier contrat :
+Eh bien voilà, nous y sommes, il s'agit d'établir un premier contrat :
 * germe d'un nouveau contrat social,
 * entre les Citoyens Français, membres d'une association, d'une part, et quelques professionnels des métiers des techn. de l'inf., d'autre part
 * établissant clairement un échagne, entre les deux parties
@@ -302,7 +302,7 @@ Eh bien voilà, nous y sommes, il sagit d'établir un premier contrat :
     * s'il est incrit dans les statuts de l'association concernée, pour engagar l'ascociation toute entière,
     * et d'eventuelles signatures de chartes, et/ou  de déclarations sur l'honneur, par les personnes physiques.
 
-Voilà pourquoi je dis que l'essentiel, leplsu urgent, est d'organiser, engager une négociation, des termes de ce contrat, entre les deux parties signatiares :
+Voilà pourquoi je dis que l'essentiel, leplus urgent, est d'organiser, engager une négociation, des termes de ce contrat, entre les deux parties signatiares :
 * les membres de l'association (ceux qui veulent de l'aide en technologie de l'inf.)
 * et les quelques professionnels des technologies de l'infromation, d'autre part.
 
@@ -310,7 +310,7 @@ En plus de l'importance d'établir un contrat clair, et de lenégocierpour qu'il
 
 Celui de penser, ce contrat, pour qu'il paraisse satisfasant, et même intéressant, pour le plus grand nombre possible :
 * de Citoyens Francçais membres d'autres associatons, (afin qu'eux mêmes veuillent à leur tour, établir un tel contrat)
-* de Professionnels des technologies de l'information, (afin qu'un nombre toujours plsu grand d'entre eux, se mettent au service de l'intérêt général)
+* de Professionnels des technologies de l'information, (afin qu'un nombre toujours plus grand d'entre eux, se mettent au service de l'intérêt général)
 
 Afin d'amorcer ce s négociations, j'ai énoncé grossièrement toute une série d'idées, de contreparties imaginalbles, négociables.
 
@@ -452,7 +452,7 @@ _**Attritubtion des tâches**_
       * Pour toutes ces raisons, il est donc essentiel, pour favoriser la croissance d'une équipe, et un projet d'intérêt général, que soit garanti juridiquement, à tout nouvel arrivant, qu'aucun membre de son corps de métier, n'aura, et ne pourra avoir de rapport hiérarchique avec lui.
       * Ainsi, lorsqu'un professionnel de notre métier est membre d'une association contrôlant des projets technologiques, il a l 'obligation de faire un choix, définitf (à vie, pour cette association) :
         * soit il contribue techniquement au projet, mais alors renonce "ad vitam eternam", à sa qualité de membre de l'association, et à tout don (financier), à celle-ci.
-        * soit il conserve sa qualité de membre de l'association, et alors est exclut de toute participation à un quelconque projet de technologies de l'information que contrôle l'association. Ilreononcede plsu à exprimer une quelconque opinion de professionnel/expert, sur ces mêmes projets. _Ici, le cas d'un "propriétaire caché" de logiciel dans une association, sera vite démasqué par les professionnels de mon corps de métier, de plus lalicence GNU GPL v3 / Affero, lui fait perdre tout espoir detirr un quelconque profitfinancier. _
+        * soit il conserve sa qualité de membre de l'association, et alors est exclut de toute participation à un quelconque projet de technologies de l'information que contrôle l'association. Ilreononcede plus à exprimer une quelconque opinion de professionnel/expert, sur ces mêmes projets. _Ici, le cas d'un "propriétaire caché" de logiciel dans une association, sera vite démasqué par les professionnels de mon corps de métier, de plus lalicence GNU GPL v3 / Affero, lui fait perdre tout espoir detirr un quelconque profitfinancier. _
         * En clair, il s'impose la discipline de ne pouvoir à la fois juge et parti : en tant que professionnels, "nous nous mettons tous au même niveau, face au citoyen"
     * De plus les professionnels de notre corps de métier, membres ou non, d'une quelconque association, s'engageront à ne jamais, sous aucun prétexte, détenir "un secret supême" :
       * un "secret suprême" est une "valeur secrète", comme un mot de passe, ou ce que l'on appelle un "`token`", qui permet de gérer (retrouver, modifier, supprimer) tous les autres "secrets" d'une organisation, (ici donc, forcément une association).
