@@ -175,16 +175,14 @@ En préambule à l'exposé de mon idée, je vais énoncer de manière concise, l
 * Il semble que les médecins aient une "formule magique", qui fait que leur patients suivent leurs recommandations beaucoup plus rigoureusement, que nos patrons, suivent les nôtres, dans notre corps de métier (des technologies de l'information).
 * La société Française dans son écrasante majorité, est consciente que les technologies de l'infromation sont un enjeu majeur de pouvoir, tout comme le pouvoir médiatique (le 7ième pouvoir)
 * Lorsqu'un mouvement majeur de Citoyens Français, se constitue, pour une cause commune, un paradoxe apparaît :
-  * Il est statiquement certain, qu'un nombre significatif de professionnels des technologies de l'information, adhèrent à la cause du mouvement, et travailleraient volontiers bénévolement.
-  * Et pourtant, aucune organisation d'équipe "technologique", même petite, ne se constitue.
+  * Il est statiquement certain, qu'un nombre significatif de professionnels des technologies de l'information, souhaitent sérieuement se mettre, bénévolement, au serivce de l'intérêt général, des Citoyens Français dans leur ensemble.
+  * Et pourtant, aucune organisation d'équipe "technologique", même petite, ne s'est constituée, à ce jour.
 * J'ajouterai que le constat fait pour le cas d'un mouvement majeur de Citoyens Français, s'applique encore plus durement, à un grand nombre d'associations à but non-lucratif, qui chacune indépendamment, essaient de faire avancer une question particulière,  dont la plupart des Français ne pourraient penser "que du bien". Par exemple, la condition des non-voyants dans la Société Française, et je suis certain que vous trouveriez des dizaines d'exemples en quelques minutes.
 
 
-_Dans un premier jet de rédaction, je me suis proposé par exposer mon idée "à l'envers", expliquant d'abord les raisonnements qui m'ont amené à l'idée condensée, épurée, pour démontrer comment celle-ci permetd'expliquer ces constations, et ce paradoxe._
+_Dans un premier jet de rédaction, je me suis proposé d'exposer mon idée "à l'envers", expliquant, avant l'énoncéde l'idée elle-même, les raisonnements qui m'ont amené celle-ci.Ce, pour démontrer comment celle-ci permet d'expliquer ces constations, et ce paradoxe._
 
-_Il m'est alors apparu évident que cette approche n'était pas la bonne. Aussi dans cette nouvelle rédaction, je vais d'emblée présenter cette idée, pure, distillée._
-
-_Pour laisser dans une annexe, le développement de mes raisonnements: au cours d'un exposé, d'une discussion publique, je détaillerai les éléments de ce raisonnement, un par un, seulement lorsque les questions et objections de l'assistance le nécessiteront._
+_Il m'est alors apparu évident que cette approche n'était pas la bonne. Aussi dans cette nouvelle rédaction, je vais d'emblée présenter cette idée, pure, distillée, et reléguer dans une annexe, le développement de mes raisonnements. Au cours d'un exposé, d'une discussion publique, je détaillerai les éléments de ce raisonnement, un par un, seulement lorsque les questions et objections de l'assistance le nécessiteront._
 
 
 _**L'idée**_
