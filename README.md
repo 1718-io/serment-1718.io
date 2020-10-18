@@ -260,10 +260,11 @@ Tout le passionant de laquestion toute nouvelle consiste alors à imaginer : "Al
 * L'idée vient de naître, aussi avant tout, je dis qu'il est passionant, et fodamental, d'ouvrir la question.
 * L'un des contreparties, qui pourra être accordéé, par le Peuple Français, seul Souverain légitime, seulRoy de France, pour accorder ce privilège, concerne tout ce qui est discuté autour du terme "lanceur d'alerte". Dès ce mot prononcé, la question ne lm'appartient plus, je sais la passion avec laquelle vous vous en emarerez, maintenant que queqleu chse de sérieux, au niveau d'une civilisation, est envisageable.
 
-Le Seul Souverain légitime, à accorder un tel privilège, à anoblir notre professon.
+Le Seul Souverain légitime, à accorder un tel privilège, à anoblir notre profession.
+
 Le seul Roy de France.
 
-Voilà pourquoi 'jai intitulé "le Retour du Roy", cettedernière partie : parce que son objet final, et faire revenir le Roy de France, le suprêmpovoir dans les mains de son seul détenteur légitime : LE Peuple Français.
+Voilà pourquoi j'ai intitulé "le Retour du Roy", cette dernière partie : parce que son objet final, et faire revenir le Roy de France, le suprêmpovoir dans les mains de son seul détenteur légitime : LE Peuple Français.
 
 De déposer la Souveraineté, en matière de technolgies de l'information, dans les mains du Roy, pour lui prêter allégeance, et obtenir l'anoblessement.
 
@@ -272,93 +273,62 @@ Bien, oui, c'est une idée puissante, extraordinairement puissante, uen idée qu
 
 Mais je le répète :
 * le plus important d'un contrat est que dans les faits, ses termes soient respectés de part et d'autre.
-* Auitrement dit, le respect de ces termes, est bien plus important encore, que l'existence du paiper signé, lui-même(que l'inscriptioj dans la Loi.
-* De plus, et c'est une idée fondamentale, dans la Loi n'est jamais inscrit, que ce qui est déjà une rééalité depusi longtemps, dans la société. Delmanez cela à des juristees, il vous donneront de très nombreusx expmles.
+* Autrement dit, le respect de ces termes, est bien plus important encore, que l'existence du document papier signé, lui-même (que l'inscription dans la Loi).
+* De plus, et c'est une idée fondamentale, dans la Loi n'est jamais inscrit, que ce qui est déjà une réalité depuis longtemps, dans la société. Delmanez cela à des juristees, il vous donneront de très nombreusx expmles.
 
-Cela semble encore abstrait, mais j'insiste encore plus fort, cette fois en n'évoquant que du concret :
-* Non seulement on peut donner réalité à ce conttrat dès maintenant,*
-* mmais en plus, il est vital de le faire, d'abord pour que ce contrat social soit un jour écrit dans la Loi Francçaise,
-* et ensuite pour que les profesionnels de notre métier, puissent se mettre au serivce des Citoyens **dès maintenant**
-* À mes confrères, je dis que Lorsque l'on prétend vouloir être anobli par le Roy, on prouve d'abord sa valeur, et ensuite seulement, le Roy vous anoblit. Jamais l'inverse.  (et nous sommes nopmbreux à vouloir nosu mettre au serivce de l'intérêt géénral)
-* À nosu tous, je dis que ce qui manque donc , pour que la réalité du contrat soit ce sont des contreparties claires :
+Cela semble encore abstrait, mais j'insiste encore plus fort, cette fois dans l'objectgif d'en arriver à une action concrète, au plus tôt :
+* Non seulement on peut donner une réalité à ce contrat dès maintenant,
+* Mais en plus, il est vital de le faire, d'abord pour que ce contrat social soit un jour écrit dans la Loi Française,
+* et ensuite pour que les professionnels de notre métier, puissent se mettre au serivce des Citoyens **dès maintenant**
+* À mes confrères, je dis que lorsque l'on prétend vouloir être anobli par le Roy, on prouve d'abord sa valeur, et ensuite seulement, le Roy vous anoblit. Jamais l'inverse. (Et nous sommes nopmbreux à vouloir nosu mettre au serivce de l'intérêt géénral)
+* À nous tous, je dis que ce qui manque donc, de principal, pour que ce contrat devienne une réalité, est la contrepartie accordée par les Ciroyeens Français, en échange du traail bénévole fournit.
 
 * Il faut donc sans tarder, écrire un premier contrat ensembles :
-  * un contrat entre, d'une part quelques professionnels des tech. de l'inf.
-  * et d'autre part des citoyens français, réunis en association
-* dans ce premier contrat, nous, preofessionnels de l'informatique y      ) (que es deux contrepaties soient ) Cea est de l'ordre du concpet, et comme  discuter, Il s'agira donc de nouveaux droits, sorte de petits privlèges qui seront accordés à ces professionnels.
-*
-Eh bien voilà, nous y sommes
+  * un contrat entre, d'une part quelques professionnels des tech. de l'inf., et d'autre part des citoyens français, réunis en association.
+  * avec ce que nous avons dès aujour'hui, à notre diposition à échanger :
+    * il est clair que ce premier contrat ne pourra prévoir aucune contrepartie sur le thème "lanceur d'alerte" :lesCitoyens Français partie prenante du contrat sont troppeu nombreux (une association).
+    * Mais je rappelle que jusqu'aujourd'hui, **aucune** contrepartie, des Citoyens Français, vers les professionnels n'a jamais été pensée.
+    * Alors certes, les Citoyens Français d'une première expérience, ne pourront rien accorder sur le thème "lanceurs d'alerte", mais , partant de rien, nous pouvons au moins changerla situation, et penser une contreparite (au lieu de rien du tout) : "faire avec ce que nous avons déjà, à écahnger"
+
+Eh bien voilà, nous y sommes, il sagit d'établir un premier contrat :
+* germe d'un nouveau contrat social,
+* entre les Citoyens Français, membres d'une association, d'une part, et quelques professionnels des métiers des techn. de l'inf., d'autre part
+* établissant clairement un échagne, entre les deux parties
+* sachant que les contreparties ne pourront être financières, il est dès lors clair :
+  * que l'échange ne peut concerner que :
+    * de nouveaux droits, et nouveaux devoir pour les professionnels des technologies del'inforamtion, bénévoles, et
+    * et de nouveaux droits, et devoirs, pour les Cioyens Français, membre del'association concernée.
+  * que le contrat établit, ne peut avoir de valeur juriqudique que :
+    * s'il est incrit dans les statuts de l'association concernée, pour engagar l'ascociation toute entière,
+    * et d'eventuelles signatures de chartes, et/ou  de déclarations sur l'honneur, par les personnes physiques.
+
+Voilà pourquoi je dis que l'essentiel, leplsu urgent, est d'organiser, engager une négociation, des termes de ce contrat, entre les deux parties signatiares :
+* les membres de l'association (ceux qui veulent de l'aide en technologie de l'inf.)
+* et les quelques professionnels des technologies de l'infromation, d'autre part.
+
+En plus de l'importance d'établir un contrat clair, et de lenégocierpour qu'il satisfasse les deux parties signataires,  j'aimerais porposeràcesnégociations, un objectif supplémentaire :
+
+Celui de penser, ce contrat, pour qu'il paraisse satisfasant, et même intéressant, pour le plus grand nombre possible :
+* de Citoyens Francçais membres d'autres associatons, (afin qu'eux mêmes veuillent à leur tour, établir un tel contrat)
+* de Professionnels des technologies de l'information, (afin qu'un nombre toujours plsu grand d'entre eux, se mettent au service de l'intérêt général)
+
+Afin d'amorcer ce s négociations, j'ai énoncé grossièrement toute une série d'idées, de contreparties imaginalbles, négociables.
+
+Je les ai réunies  dans la section suivante que j'ai intitulée "Modalités".
+
+Etje terminerai en disant :
+* que non seulement, je n'ai aucune légitimité, à fixer les termes exacts de ce contrat,
+* mais en plus, comme tout contrat, il estessentiel , de faire participer le maximum de personnes, à cette négociation :
+  * membre de l'ascoiation d'une part,
+  * et professionels des métiers des technologies de l'information, motivées à êtrebénévoles, d'autre part.
+* le contrat en sera d'autant plus solide, et comprtera d'autant plus de signataires.
+
+Voilà, ce qu'il nous faut organiser en premier, ce sont ces négociations, pour péparer le Retour du Roy.
 
 
-   il nestpa nécessaire, que ce contrat soit inscrit dans la loi, dès aujourd'hui
+## Modalités
 
 
-Mais avant de
-
-
-_**Résolution du paradoxe qui n'en est un, qu'apparrement**_
-
-
-D'abord, quelques éléments très concrets, les uns après les autres, qui expliquent pourquoi le "paradoxe" évoqué apparaît, et
-permettent de déuire que la solution  (à chaque point, je sollicite les questions de l'audience, je note les questions, et y
-répond une fois la liste de points terminée) :
-
-* Les professionnels de mon corps de métier ne s'engageront jamais bénévolement, pour l'intérêt général, sur un projet, tant qu'il existe le moindre doute, que celui-ci puisse donner lieu à un profit lucratif, financier, à quiconque :
-  * Tous les (composants) logiciels produits doivent donc être librement accessibles par tout Citoyen Français, "open-source",
-  * et qui plus est, sous licence [GNU GPL v3 Affero](https://www.gnu.org/licenses/agpl-3.0.en.html), la seule licence au Monde, qui garanti qu'il est impossible de tirer profit financier du travail produit.
-* Les professionnels de mon corps de métier ne s'engageront jamais bénévolement, pour l'intérêt général, sur un projet, tant que ce projet est sous le contrôle d'un individu particulier :
-  * il faut donc que ce projet soit sous le contrôle d'une organisation et non d'un individu.
-  * de plus, cette organisation ne peut être qu'une association dont les statuts explicitement, spécifient son but non-lucratif.
-* Les professionnels de mon corps de métier ne s'engageront jamais bénévolement, pour l'intérêt général, sur un projet, tant que ce projet est sous le contrôle d'un individu particulier, et encore moins d'un ou plusieurs membres de notre corps de métier. Cela signifie qu'aucun des éléments suivants, ne peut être la propriété, ou contrôlé, juridiquement, par un ou plusieurs membres de notre corps de métier (ou d'une association à but non lucratif qu'il aurait créé, ou dont il serait membre) :
-  * le logicel produit, devra être publié sur https://github.com, dans ce que l'on appelle, une "organisation Github" : c'est un peu comme "un groupe facebook", danslequel au lieu de "discuter, envoyer des posts", les ingénieurs travaillent, sur le logiciel.
-  * le logicel produit, devra avoir un nom, et lui sera associé un nom de domaine public sur internet : cet élément est très important, vital, même, car c'est le seul moyen pour un tel logiciel, d'être accessible, par n'imorte qui, autrement dit d'avoir la moindre existence.
-  * le nom de domaine (internet), et l' "organisation github" devront donc être sous le contrôle total, et la propriété juridique d'une association Loi 1901, à but non-lucratif.
-* Un professionnel de mon corps de métier ne s'engagera jamais, ou difficilement, pour l'intérêt général, bénévolement, sur un projet, tant qu'il y aura un membre de notre corps de métier, qui sera son supérieur hiérarchique (qui pourra lui impsoser sans recours possible, des décisions) :
-  * Cela est compréhensible, parce que l'image dans notre métier est très importante : être supérieur hiérarchique (avorile pouvoir de décisionen dernier recours) d'une équipe, représente un intérêt professionnel conséquent, surtout pour des projets "open-source", ce qui constitue **un conflit d'intérêt**, avec l'intérêt général.
-  * De plus, il existe un cas légitime, reconnu par tous, pour lequel un professionnel de notre coprs de métier peut vooir son image profesionnelle bénéficier du travail qu'il fait bénévolement :
-    * en faisant autorité, non parce que décideur en dernier retour, pour une équipe, mais parce que son avis, ses recommandations, et son exepertises, sont beaucoup sollicitées parsa propre équipe.
-    * en faisant autorité, non parce que décideur en dernier retour, pour une équipe, mais parce qu'il a produit un travail reconnu de qualité, ou relevant d'une très bonne idée,
-  * Dans un grand nombre de cas, le propriétaire de la société / l'entreprise qui nous emploie, n'est pas un membre de notre corps de métier.
-  * Pour toutes ces raisons, il est donc essentiel, pour favoriser la croissance d'une équipe, et un projet d'intérêt général, que soit garanti juridiquement, à tout nouvel arrivant, qu'aucun membre de son corps de métier, n'aura, et ne pourra avoir de rapport hiérarchique avec lui.
-  * Ainsi, lorsqu'un professionnel de notre métier est membre d'une association contrôlant des projets technologiques, il a l 'obligation de faire un choix, définitf (à vie, pour cette association) :
-    * soit il contribue techniquement au projet, mais alors renonce "ad vitam eternam", à sa qualité de membre de l'association, et à tout don (financier), à celle-ci.
-    * soit il conserve sa qualité de membre de l'association, et alors est exclut de toute participation à un quelconque projet de technologies de l'information que contrôle l'association. Ilreononcede plsu à exprimer une quelconque opinion de professionnel/expert, sur ces mêmes projets. _Ici, le cas d'un "propriétaire caché" de logiciel dans une association, sera vite démasqué par les professionnels de mon corps de métier, de plus lalicence GNU GPL v3 / Affero, lui fait perdre tout espoir detirr un quelconque profitfinancier. _
-    * En clair, il s'impose la discipline de ne pouvoir à la fois juge et parti : en tant que professionnels, "nous nous mettons tous au même niveau, face au citoyen"
-* De plus les professionnels de notre corps de métier, membres ou non, d'une quelconque association, s'engageront à ne jamais, sous aucun prétexte, détenir "un secret supême" :
-  * un "secret suprême" est une "valeur secrète", comme un mot de passe, ou ce que l'on appelle un "`token`", qui permet de gérer (retrouver, modifier, supprimer) tous les autres "secrets" d'une organisation, (ici donc, forcément une association).
-  * un "secret" est une valeur, comme un mot de passe, une "clé privée", un "token", une "signature", ou un fichier comportant des informations confidentielles, comme une liste d'adhérents, et leur coordonnées adresse postale, tel, email, personnels, ou encore  le RIB du compte bancaire de l'association, etc...etc...
-* Pour ne jamais détenir de "secret surpême", les membres de mon corps de métier, membres d'une association, ou contributeurs aux projets technologiques de cette association, s'engageront à former les autres membres de l'assocaition :
-  * au concept de "secret" et de "secret suprême", avec celui de "trousseau de secrets"
-  * à l'utilisation d'outil permettant "la gestion des secrets".
-  * cela est possible aujourd'hui, les outils techniques existent.
-  * et c'est un élément essentiel, garantissant au citoyen qu'il garde le contrôle sur les professionnels de mon corps de métier, en permanence, tout comme le RIC, vise à garder le contrôle des élus. _(Au lieu de transformer une élection, en un renoncement total à prendre une quelconque décision)_.
-
-  Exemple de deux logicels mondialement (re)connus :
-
-  * https://rocket.chat/ et https://github.com/RocketChat
-  * https://www.debian.org/ et https://github.com/Debian
-
-
-La solution déduite est alors claire :
-* Ce qui pose problème est que les professionnels de mon métier, n'ont pas le cadre juridique raisonnable, pour :
-  * d'une part, leur garantir que le don qu'ils feraient pour l'intérêt général, sera protégé par la Loi, de toute sorte de détournement, corruption, de gravités plus ou moins grande.
-  * d'autre part, leur permettre de garantir par la loi, de l'intégrité, l'éthique de leur travail bénévole :
-    * aux yeux de tout citoyen qui n'est pas professionnel des technologies de l'information.
-    * aux yeux d'autres professionnels qui envisagent de contribuer à un projet technologique d'intérêt général.
-* De plus cet effort d'engagement, fait par une association d'une part, en modifiant ses statuts, est équilibré par la contrepartie apportée par les bénévoles professionnels des technoloiges de l'information,d'autre part :
-  * Rappelons que le problèmeeffectif, est pour une telle association, de convaincre de tels contributions bénévoles
-  * et que ces bénévoles eux-mêmes, en plus de leur don en nature :
-    * s'atreignent eux-mêmes à une éthique,
-    * et s'engagent à dispenser des formations, aux citoyens membres  de l'association, sur les outils et concepts, des technologies de l'information. Etce pour armer le citoyen, dans son quotidien, face aux enjeux majeurs, de pouvoir, que soulèvent ces technologies.
-
-
-De toute évidence, la solution consiste à créer ce cadre juridique, en inscrivant dans les statuts d'une associatioon loi 1901, de nouvelles modalités, apportant contraintes, pour :
-* Les membres del'association d'une part,
-* et pour les contributeurs professionels des technologies de l'information, d'autre part.
-
-Et voici les modalités que je propose :
-
-#### Modalités
 
 * L'association doit inscrire explicitement son caractère non-lucratif, dans ses statuts.
 * L'association doit inscrire explicitement, dans ses statuts, que toute production logicielle, dans le cadre d'un projet géré par l'association :
@@ -397,7 +367,8 @@ Et voici les modalités que je propose :
   * pour la trosième période allant du 1er Septembre, inclut, au 31 Décembre, inclut: l'envoi devra être fait avant le 31 Janvier, échu, de l'année suivante
 
 
-#### ANNEXE B : "modalités particulières de rédaction, d'attribution et de priorisation des tâches, par l'association"
+
+## ANNEXE A : "modalités particulières de rédaction, d'attribution et de priorisation des tâches, par l'association"
 
 
 _**Rédaction, et Priorisation des tâches**_
@@ -452,3 +423,67 @@ _**Attritubtion des tâches**_
   * mais à la place, réalise une autre tâche `autreTâche`, alors :
     * si la taĉhe  `autreTâche` est de priorité égale, ou inférieure (nombre de "pouce haut") à la tâche `tâcheAttribuée`, son temps de travail est décompotésur "ses 50% de liberté"
     * Par contre, si la taĉhe  `autreTâche` est de priorité supérieure (nombre de "pouce haut"), à la tâche `tâcheAttribuée`, son temps de travail est décompté sur "ses 50% imposés"
+
+
+
+    ## ANNEXE B : quelques élemnts de réflexions qui ont motivés mes propositions de modalités.
+
+
+    D'abord, quelques éléments très concrets, les uns après les autres, qui expliquent pourquoi le "paradoxe" évoqué apparaît, et
+    permettent de déuire que la solution  (à chaque point, je sollicite les questions de l'audience, je note les questions, et y
+    répond une fois la liste de points terminée) :
+
+    * Les professionnels de mon corps de métier ne s'engageront jamais bénévolement, pour l'intérêt général, sur un projet, tant qu'il existe le moindre doute, que celui-ci puisse donner lieu à un profit lucratif, financier, à quiconque :
+      * Tous les (composants) logiciels produits doivent donc être librement accessibles par tout Citoyen Français, "open-source",
+      * et qui plus est, sous licence [GNU GPL v3 Affero](https://www.gnu.org/licenses/agpl-3.0.en.html), la seule licence au Monde, qui garanti qu'il est impossible de tirer profit financier du travail produit.
+    * Les professionnels de mon corps de métier ne s'engageront jamais bénévolement, pour l'intérêt général, sur un projet, tant que ce projet est sous le contrôle d'un individu particulier :
+      * il faut donc que ce projet soit sous le contrôle d'une organisation et non d'un individu.
+      * de plus, cette organisation ne peut être qu'une association dont les statuts explicitement, spécifient son but non-lucratif.
+    * Les professionnels de mon corps de métier ne s'engageront jamais bénévolement, pour l'intérêt général, sur un projet, tant que ce projet est sous le contrôle d'un individu particulier, et encore moins d'un ou plusieurs membres de notre corps de métier. Cela signifie qu'aucun des éléments suivants, ne peut être la propriété, ou contrôlé, juridiquement, par un ou plusieurs membres de notre corps de métier (ou d'une association à but non lucratif qu'il aurait créé, ou dont il serait membre) :
+      * le logicel produit, devra être publié sur https://github.com, dans ce que l'on appelle, une "organisation Github" : c'est un peu comme "un groupe facebook", danslequel au lieu de "discuter, envoyer des posts", les ingénieurs travaillent, sur le logiciel.
+      * le logicel produit, devra avoir un nom, et lui sera associé un nom de domaine public sur internet : cet élément est très important, vital, même, car c'est le seul moyen pour un tel logiciel, d'être accessible, par n'imorte qui, autrement dit d'avoir la moindre existence.
+      * le nom de domaine (internet), et l' "organisation github" devront donc être sous le contrôle total, et la propriété juridique d'une association Loi 1901, à but non-lucratif.
+    * Un professionnel de mon corps de métier ne s'engagera jamais, ou difficilement, pour l'intérêt général, bénévolement, sur un projet, tant qu'il y aura un membre de notre corps de métier, qui sera son supérieur hiérarchique (qui pourra lui impsoser sans recours possible, des décisions) :
+      * Cela est compréhensible, parce que l'image dans notre métier est très importante : être supérieur hiérarchique (avorile pouvoir de décisionen dernier recours) d'une équipe, représente un intérêt professionnel conséquent, surtout pour des projets "open-source", ce qui constitue **un conflit d'intérêt**, avec l'intérêt général.
+      * De plus, il existe un cas légitime, reconnu par tous, pour lequel un professionnel de notre coprs de métier peut vooir son image profesionnelle bénéficier du travail qu'il fait bénévolement :
+        * en faisant autorité, non parce que décideur en dernier retour, pour une équipe, mais parce que son avis, ses recommandations, et son exepertises, sont beaucoup sollicitées parsa propre équipe.
+        * en faisant autorité, non parce que décideur en dernier retour, pour une équipe, mais parce qu'il a produit un travail reconnu de qualité, ou relevant d'une très bonne idée,
+      * Dans un grand nombre de cas, le propriétaire de la société / l'entreprise qui nous emploie, n'est pas un membre de notre corps de métier.
+      * Pour toutes ces raisons, il est donc essentiel, pour favoriser la croissance d'une équipe, et un projet d'intérêt général, que soit garanti juridiquement, à tout nouvel arrivant, qu'aucun membre de son corps de métier, n'aura, et ne pourra avoir de rapport hiérarchique avec lui.
+      * Ainsi, lorsqu'un professionnel de notre métier est membre d'une association contrôlant des projets technologiques, il a l 'obligation de faire un choix, définitf (à vie, pour cette association) :
+        * soit il contribue techniquement au projet, mais alors renonce "ad vitam eternam", à sa qualité de membre de l'association, et à tout don (financier), à celle-ci.
+        * soit il conserve sa qualité de membre de l'association, et alors est exclut de toute participation à un quelconque projet de technologies de l'information que contrôle l'association. Ilreononcede plsu à exprimer une quelconque opinion de professionnel/expert, sur ces mêmes projets. _Ici, le cas d'un "propriétaire caché" de logiciel dans une association, sera vite démasqué par les professionnels de mon corps de métier, de plus lalicence GNU GPL v3 / Affero, lui fait perdre tout espoir detirr un quelconque profitfinancier. _
+        * En clair, il s'impose la discipline de ne pouvoir à la fois juge et parti : en tant que professionnels, "nous nous mettons tous au même niveau, face au citoyen"
+    * De plus les professionnels de notre corps de métier, membres ou non, d'une quelconque association, s'engageront à ne jamais, sous aucun prétexte, détenir "un secret supême" :
+      * un "secret suprême" est une "valeur secrète", comme un mot de passe, ou ce que l'on appelle un "`token`", qui permet de gérer (retrouver, modifier, supprimer) tous les autres "secrets" d'une organisation, (ici donc, forcément une association).
+      * un "secret" est une valeur, comme un mot de passe, une "clé privée", un "token", une "signature", ou un fichier comportant des informations confidentielles, comme une liste d'adhérents, et leur coordonnées adresse postale, tel, email, personnels, ou encore  le RIB du compte bancaire de l'association, etc...etc...
+    * Pour ne jamais détenir de "secret surpême", les membres de mon corps de métier, membres d'une association, ou contributeurs aux projets technologiques de cette association, s'engageront à former les autres membres de l'assocaition :
+      * au concept de "secret" et de "secret suprême", avec celui de "trousseau de secrets"
+      * à l'utilisation d'outil permettant "la gestion des secrets".
+      * cela est possible aujourd'hui, les outils techniques existent.
+      * et c'est un élément essentiel, garantissant au citoyen qu'il garde le contrôle sur les professionnels de mon corps de métier, en permanence, tout comme le RIC, vise à garder le contrôle des élus. _(Au lieu de transformer une élection, en un renoncement total à prendre une quelconque décision)_.
+
+      Exemple de deux logicels mondialement (re)connus :
+
+      * https://rocket.chat/ et https://github.com/RocketChat
+      * https://www.debian.org/ et https://github.com/Debian
+
+
+    La solution déduite est alors claire :
+    * Ce qui pose problème est que les professionnels de mon métier, n'ont pas le cadre juridique raisonnable, pour :
+      * d'une part, leur garantir que le don qu'ils feraient pour l'intérêt général, sera protégé par la Loi, de toute sorte de détournement, corruption, de gravités plus ou moins grande.
+      * d'autre part, leur permettre de garantir par la loi, de l'intégrité, l'éthique de leur travail bénévole :
+        * aux yeux de tout citoyen qui n'est pas professionnel des technologies de l'information.
+        * aux yeux d'autres professionnels qui envisagent de contribuer à un projet technologique d'intérêt général.
+    * De plus cet effort d'engagement, fait par une association d'une part, en modifiant ses statuts, est équilibré par la contrepartie apportée par les bénévoles professionnels des technoloiges de l'information,d'autre part :
+      * Rappelons que le problèmeeffectif, est pour une telle association, de convaincre de tels contributions bénévoles
+      * et que ces bénévoles eux-mêmes, en plus de leur don en nature :
+        * s'atreignent eux-mêmes à une éthique,
+        * et s'engagent à dispenser des formations, aux citoyens membres  de l'association, sur les outils et concepts, des technologies de l'information. Etce pour armer le citoyen, dans son quotidien, face aux enjeux majeurs, de pouvoir, que soulèvent ces technologies.
+
+
+    De toute évidence, la solution consiste à créer ce cadre juridique, en inscrivant dans les statuts d'une associatioon loi 1901, de nouvelles modalités, apportant contraintes, pour :
+    * Les membres del'association d'une part,
+    * et pour les contributeurs professionels des technologies de l'information, d'autre part.
+
+    Et voici les modalités que je propose :
