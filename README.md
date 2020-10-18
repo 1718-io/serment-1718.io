@@ -282,7 +282,7 @@ Et voici les modalités que je propose :
   * pour la trosième période allant du 1er Septembre, inclut, au 31 Décembre, inclut: l'envoi devra être fait avant le 31 Janvier, échu, de l'année suivante
 
 
-#### ANNEXE B : "modalités particulières d'attribution et de priorisation des tâches, par l'association"
+#### ANNEXE B : "modalités particulières de rédaction, d'attribution et de priorisation des tâches, par l'association"
 
 
 _**Rédaction, et Priorisation des tâches**_
