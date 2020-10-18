@@ -135,7 +135,11 @@ Alors, bien évidemment, je commence par chercher si des équipes se sont déjà
 * un bon nombre de groupes de "Gilets Jaunes", m'ont démontré, ou confirmé, qu'ils n'ont pas même réussi à créer une seule équipe "technologique". Excluant bien entendu, toute "équipe"qui aurait proposé son aide,et qui en réalité corresppond à une entreprise, une société, à but lucratif, même si elle n'a demandé aucune rémunération. Ce dernier type de "proposition" a été vu quelques fois, et n'a pas manqué de se terminer de manière... Négative, dirons-nous.
 
 >
-> Quoi?! Comment?! nous sommes au moins 500, tous les jours de la semaine, nous travaillons pour nos employeurs, avec des méthodes, des outls entièrement gratuits, extrêmement puissants, de 8H00 à 18H00, et dès que sortis du bureau à 18H00, on oubli toutes ces méthodes, ces outils, cette ingénierie, et nous n'avons pas été capables de nous organiser ?
+> Quoi?! Comment?! nous sommes au moins 500, tous les jours de la semaine, nous travaillons pour nos employeurs, avec des méthodes, des habitudes, quasi-réflexes, des outils entièrement gratuits, extrêmement puissants, de 8H00 à 18H00,
+>
+> et dès que sortis du bureau à 18H00, il semble que l'on ait oublié toutes ces méthodes, ces quasi-réflexes, ces outils, cette ingénierie :  Comment est-ilpossible que nousn'utilisons pas nos connaissances, notre exéprience, lorsque nous avons l'intention de nous mettre au service de l'intérêt général ???,
+>
+> Comment est-il possible que nous n'ayons pas été capables de nous organiser ?
 >
 > Mais enfin, Comment est-ce possible ??
 >
