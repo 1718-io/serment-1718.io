@@ -123,10 +123,10 @@ Et je me demande rapidement :
 >
 > Très bien, maintenant que je ne suis plus une petite souris, que jai trouvé un moyen d'agir, comment puis-je aider au mieux ?
 >
-> Bien, sûr, c'est en apportant monexpertise professionnelle gratuitement, en aidant sur cette partie, c'est évident.
+> Bien, sûr, c'est en apportant mon expertise professionnelle gratuitement, en aidant sur cette partie, c'est évident.
 >
 
-Alors, bien évidemment, je commence par chercher si des équipes se sont déjà formées, sur la question des technologies, je vous passe lesdétails, et vous livre la conclusio.
+Alors, bien évidemment, je commence par chercher si des équipes se sont déjà formées, sur le thème des technologies de l'information, je vous passe les détails, et vous livre la conclusion.
 
 **À mon très grand étonnement**, et ce parce qu'il y avait des centaines de milliers de personnes (parmi ces "Gilets Jaunes"), et encore plus de sympathie de l'opinion générale :
 * Il n'y a aucune équipe (même pas d'au moins 5 personnes, ne serait-ce que cela) qui ait produit un travail significatif (comparable à ce que nous faisons pour nos employeurs). Notamment, très exactement zéro "repo" sur github.com!!!
