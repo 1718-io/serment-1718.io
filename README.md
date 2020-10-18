@@ -291,22 +291,23 @@ _**Rédaction, et Priorisation des tâches**_
 Pour démontrer le caractère d'intérêt général, que l'association accorde, aux logiciels dont elle gère le développement, celle-ci:
 * créée un "repository" https://github.com, nommé `contributions`, sur lequel :
   * toute personne peut ouvrir un "issue" https://github.com , et y rédiger une tâche de travail à accomplir, dans lecadredu développement du logiciel, à la seule condition que cette tâche soit rédfigée dans la langue Française.
-  * toute personne pourra "voter" pour une tâche :
-    * ce vote s'effectuera en utilisant les "reactions" https://github.com en spécifiant un "un pouce vers le haut" par clic, comme le montre l'impression écran suivante :
+  * toute personne pourra "voter" pour une tâche
+
+* ce vote s'effectuera en utilisant les "reactions" https://github.com en spécifiant un "un pouce vers le haut" par clic, comme le montre l'impression écran suivante :
 
 ![vote par clic pouce haut](images/statuts/modalites/vote-taches/modalite-vote-pouce-haut.png)
 
-    * chaque utilisateur pourra vérifier que son vote est bien comptabilisé, comme le montre l'impression écran suivante :
+* chaque utilisateur pourra vérifier que son vote est bien comptabilisé, comme le montre l'impression écran suivante :
 
 ![vote parclicpouce haut](images/statuts/modalites/vote-taches/modalite-vote-poucve-haut-id-votant.png)
 
-    * il sera possible d'identitifer chaque votant, ce vote n'est donc pas anonymisé. Il s'agit cependant de voter pour prioriser des tâches techniques, relativement loin de choses telles que des opinions politiques ou religieuses, par exemple.
-    * le nombre total de votes (de "pouces haut"), est automatiquement réalisé par https://github.com,commelemontre cet exemple :
+* il sera possible d'identitifer chaque votant, ce vote n'est donc pas anonymisé. Il s'agit cependant de voter pour prioriser des tâches techniques, relativement loin de choses telles que des opinions politiques ou religieuses, par exemple.
+* le nombre total de votes (de "pouces haut"), est automatiquement réalisé par https://github.com,commelemontre cet exemple :
 
 ![nb total votes](images/statuts/modalites/vote-taches/nb-total-pouces-hauts.png)
 
-    * à tout moment, un votant peut retirer son vote, en cliquant une seconde fois sur l'icône totalisant le nombre de votes "pouce haut", ce qui ne retirera que le vote de l'utilsateur ayant cliqué.
-    * toute sélection de "réaction" autre que le "pouce haut", ne sera pas comptabilisée en tant que vote
+* à tout moment, un votant peut retirer son vote, en cliquant une seconde fois sur l'icône totalisant le nombre de votes "pouce haut", ce qui ne retirera que le vote de l'utilsateur ayant cliqué.
+* toute sélection de "réaction" autre que le "pouce haut", ne sera pas comptabilisée en tant que vote
 
 Ce vote, permettra de prioriser les tâches rdigées sous forme d'"issues" https://github.com :
 * Ce type de vote, est particulièrement répandu, et universellement connu des professionnels des technologies de l'information. Pour eux, ce type de votesera très facilement compris.
