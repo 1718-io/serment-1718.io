@@ -4,7 +4,7 @@ Je m'appelle Jean-Baptiste Lasselle. Mon activité professionnelle consiste à :
 * Utiliser mes connaissances en matières de sciences et technologies de l'information, pour :
   * conseiller une entreprise en matière de technologies de l'information : ces technologies qui n'ont eut de cesse de se développer depuis qu'[Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) a créé le concept du, et le premier Ordinateur. Disons que pour le résumer grossièmremnt, dans ces technologies, il y a du matériel (entre autres choses,"tout ce qui a un processeur"), et des logiciels (exemple: Androïd, sur votre téléphone, est un logiicel, tout comme les jeux vidéos en sont, bien qu'ennuyeux). L'entreprise peut me demander de répondre à ses questions, ou réaliser des tâches concernant destechnologies qu'elleutilise, généralement les deux à la fois.
   * être employé par une société pour participer au développement d'un logiciel, qu'en général, elle vend, d'une manière ou d'une autre.
-* Constamment augmenter mes connaissances en matière de sciences et technologies de l'information.Tout commeun médecin continue toute sa vie d'apprendre de nouvelles méthodes, ou autres connaissances de la médecine, utiles pour l'exercice de son métier.
+* Constamment augmenter mes connaissances en matière de sciences et technologies de l'information. Tout comme un médecin continue toute sa vie d'apprendre de nouvelles méthodes, ou autres connaissances de la médecine, utiles pour l'exercice de son métier.
 
 
 # Objet et naissance
