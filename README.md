@@ -180,12 +180,11 @@ En préambule àl'exposé de mon idée, je vais énoncer de manière concise, le
 * J'ajouterai que le constat fait pour le cas d'un mouvement majeur de Citoyens Français, s'applique encore plus durement, à un grand nombre d'associations à but non-lucratif, qui chacune indépendamment, essaient de faire avancer une question particulière,  dont la plupart des Français ne pourraient penser "que du bien". Par exemple, la condition des non-voyants dans la Société Française, et je suis certain que vous trouveriez des dizaines d'exemples en quelques minutes.
 
 
-_Dans un premier jet de rédaction, je me suis proposé par exposer mon idée "à l'envers", expliquant d'abord les raisonnements qui m'ont amené à l'idée condensée, épurée, pour démontrer comment celle-ci permetd'expliquer ces constations, et ce paradoxe.
+_Dans un premier jet de rédaction, je me suis proposé par exposer mon idée "à l'envers", expliquant d'abord les raisonnements qui m'ont amené à l'idée condensée, épurée, pour démontrer comment celle-ci permetd'expliquer ces constations, et ce paradoxe._
 
-Il m'est alors apparu évident que cette approche n'était pas la bonne. Aussi dans cette nouvelle rédaction, je vais d'emblée présenter cette idée, pure, distillée.
+_Il m'est alors apparu évident que cette approche n'était pas la bonne. Aussi dans cette nouvelle rédaction, je vais d'emblée présenter cette idée, pure, distillée._
 
-Pour laisser dans une annexe, le développement de mes raisonnements: au cours d'un exposé, d'une discussion publique, je détaille les éléments de ce raisonnement, un par uns seulement lorsque les questions etobjections de l'assistance le nécessite.
-_
+_Pour laisser dans une annexe, le développement de mes raisonnements: au cours d'un exposé, d'une discussion publique, je détaille les éléments de ce raisonnement, un par uns seulement lorsque les questions etobjections de l'assistance le nécessite._
 
 
 L'ensemble de ces constations peut s'expliquer par l'idée que je vais expliquer en l'exposant "à l'envers" : je vais d'abord montrer comment cette idée résoud le paradoxe déjà plusieurs fois mentionné, pour ensuite dévoiler pleinement cette idée, son concept.
