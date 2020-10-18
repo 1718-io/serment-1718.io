@@ -170,7 +170,7 @@ L'assistance sait ainsi, que mon analyse repose sur des concepts si largement ad
 
 #### Le Retour du Roy
 
-En préambule àl'exposé de mon idée, je vais énoncer de manière concise, les quelques constations que j'ai accumulées au cours du temps. Les voici :
+En préambule à l'exposé de mon idée, je vais énoncer de manière concise, les quelques constations que j'ai accumulées au cours du temps. Les voici :
 
 * Il semble que les médecins aient une "formule magique", qui fait que leur patients suivent leurs recommandations beaucoup plus rigoureusement, que nos patrons, suivent les nôtres, dans notre corps de métier (des technologies de l'information).
 * La société Française dans son écrasante majorité, est consciente que les technologies de l'infromation sont un enjeu majeur de pouvoir, tout comme le pouvoir médiatique (le 7ième pouvoir)
