@@ -108,14 +108,15 @@ Je vais simplement exprimer ces opionins, proposer à chacun se faire la sienne,
   > "Elire c'est renoncer au vote".
   >
   > "Si nous restons au niveau législatif, nous sommes tous en désacord, et si nous nous élevons au niveau Constitutionnel, comme par magie, nous arrivons à un consensus largement majoritaire."
+  >
 
-Et voilà, d'un seul coup, celaclaque dans mon esprit :
+Et voilà, d'un seul coup, cela claque, dans mon esprit :
 
 >
-> Bon sang ! Mais c'estbien sûr! la voilà, la raison pour laquelle je me ressentais cette frutstration, comme une souris dans une petite roue!!!! Eurêka!!
+> Bon sang ! Mais c'est bien sûr! La voilà, la raison pour laquelle je me ressentais cette frutstration, comme une souris dans une petite roue!!!! Eurêka!!
 >
 
-Et comme bien d'autres je me suis mis à réfléchir à ces nouvelelsidées, le RIC, etc...
+Et comme bien d'autres je me suis mis à réfléchir à ces nouvelles idées, ayant rapport au RIC, etc...
 
 Et je me demande rapidement :
 
