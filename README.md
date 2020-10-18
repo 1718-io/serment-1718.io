@@ -127,15 +127,19 @@ Et je me demande rapidement :
 
 Alors, bien évidemment, je commence par chercehr si des équipes se sont déjà formées, sur la question des technologies, je vous passe lesdétails, et vous livre la conclusio.
 
-**À mon très grand étonnement**, et ce parce qu'il y avait des centainzes de milliers de personnes, et encore plus de sympathie de l'opinion générale :
-* Il n'y a aucune équipe (mêmepas au moins 5 à 10 personnes, ne serait-ce que cela) qui ait produit un travail significatif (comparable à ce que nous faisons au bureau).Notamment, très exactement zéro "repo" sur github.com!!!
-* et pourtant parmi ces centaines de milliers de personnes, ilest absoluemnt certain qu'il y a ua moins, si ce n'est un pourcent, disons au moins un pour mille, qui est un professionnel de mon métier
-* cela veut dire, aller, au minimum, c'est certain disons cinq cent (500) professiionnels de mon métier, dont l'opinion personnelle est plus que favorable aux "Gilets Jaunes" . 500 qui tous diraient qu'ils s'engageraient volontiers et sans tarder,pour aider.
+**À mon très grand étonnement**, et ce parce qu'il y avait des centaines de milliers de personnes (parmi ces "Gilets Jaunes"), et encore plus de sympathie de l'opinion générale :
+* Il n'y a aucune équipe (même pas d'au moins 5 personnes, ne serait-ce que cela) qui ait produit un travail significatif (comparable à ce que nous faisons pour nos employeurs). Notamment, très exactement zéro "repo" sur github.com!!!
+* et pourtant parmi ces centaines de milliers de personnes, il est absoluemnt certain qu'il y a au moins, si ce n'est un pourcent, disons au moins un pour mille, qui est un professionnel de mon métier :
+  * cela veut dire, aller, au minimum, c'est certain, disons cinq cent (500) professionnels de mon métier, dont l'opinion personnelle est plus que favorable aux "Gilets Jaunes" .
+  * 500 qui tous diraient qu'ils s'engageraient fortement, et sans tarder, pour aider.
+* un bon nombre de groupes de "Gilets Jaunes", m'ont démontré, ou confirmé, qu'ils n'ont pas même réussi à créer une seule équipe "technologique". Excluant bien entendu, toute "équipe"qui aurait proposé son aide,et qui en réalité corresppond à une entreprise, une société, à but lucratif, même si elle n'a demandé aucune rémunération. Ce dernier type de "proposition" a été vu quelques fois, et n'a pas manqué de se terminer de manière... Négative, dirons-nous.
 
 >
-> Quoi?! Comment?! nous sommes au moins 500, tous les jours de la semaine, nous travaillons pour nos employeurs, avec des méthodes, des outls entièrement gratuits, extrêmement puissants, de 8H00 à 18H00, et dès que sortis du bureau à 18H00, on oubli toutes ces méthodes, cesoutils, cette ingénierie ?
+> Quoi?! Comment?! nous sommes au moins 500, tous les jours de la semaine, nous travaillons pour nos employeurs, avec des méthodes, des outls entièrement gratuits, extrêmement puissants, de 8H00 à 18H00, et dès que sortis du bureau à 18H00, on oubli toutes ces méthodes, ces outils, cette ingénierie, et nous n'avons pas été capables de nous organiser ?
 >
-> Mais enfin, Comment est-ce possible ?
+> Mais enfin, Comment est-ce possible ??
+>
+>  Comment est-ce possible, nous qui lançons, et gérons des projets open source, nous qui sommes contributeurs Linux Debian, entièrement bénévolement ?
 >
 
 Et d'autre part :
@@ -149,6 +153,9 @@ Et d'autre part :
 
 Voilà, ce qui a déclenché finalement, le travail qui a donné naissance à l'idée que je vais vous exposer.
 
+Je donnerai simplement uneremarque que je trouve intéressante ici : ce constat, l'identification de ce paradoxe, que j'ai réalisée pour la France, j'ai aujourd'hui l'intuition, qu'il peut-être fait, concernant ce même corps de métier, dans tous les pays du Monde, à ce jour.
+
+Nous sommes Français, après tout, le seul Peuple qui ait déclaré des droits non pour les seuls Hommes de notre pays, mais pour ceux de tous les pays du Monde. 
 
 Lorsque je fais un exposé Oral, dans une assemblée, de cette génèse, à ce point là de l'exposé en particulier, comme à d'autres précédemment, je  propose de faire un échange question / réponses (Avez-vous des questions ?)
 
