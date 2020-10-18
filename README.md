@@ -21,7 +21,7 @@ Je vais donc commencer par ici faire de même. Et je commence toujours par sa na
 ## Naissance de l'idée
 
 
-#### Prémisces
+#### Prémisses
 
 2 ou 3 ans après avoir commencé à exercer mon activité professionnelle, disons entre 2009 et 2010, environ, prenant un peu de recul par
 rapport à ces premières années, en discutant avec certains collègues des principales difficultés rencontrées
