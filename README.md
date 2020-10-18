@@ -69,8 +69,8 @@ Les années se passent, je continue mon parcours professionnel, et je vis dans l
 
 Et je ressens à titre personnel, une frustration, en tant que citoyen :
 
-* d'une part je vois, j'entends, une majorité des gens que je fréquente, croise, au quotidien, convenir qu'il est certain, que l'avenir est sombre pour les citoyens Français, les membres de notre société. Que nous perdront de plus en plus de droits, de richesse, de possibilités professionnelles, etc., etc.... Chacun pourra allonger la liste.MAis entout cas, ce que je vois de commun, c'est que tous pensent que "tout va se dégrader, jamais s'amélirer."? Que l'avenir est sombre, etsera,deplus en plus sombre.
-* d'autre part, n'ayant jamais été défaitiste, reste constamment en moi une voix qui dit : "Bon, ok, imaginons que cesoitbien lecas, que l'avenir est sombre. Mais alors, si on le sait, ne serait-ilpas naturelde sedire qu'en conséquence, nous allons faire quelque chose, pour changer cela??"
+* d'une part je vois, j'entends, une majorité des gens que je fréqunete, croise, au quotidien, convenir qu'il est certain, que l'avenir est sombre pour les citoyens Français, les membres de notre société. Que nous perdront de plus en plus de droits, de richesse, de possibilités professionnelles, etc., etc.... Chacun pourra allonger la liste.MAis entout cas, ce que je vois de commun, c'est que tous pensent que "tout va se dégrader, jamais s'amélirer."? Que l'avenir est sombre, etsera,deplus en plus sombre.
+* d'autre part, n'ayant jamais été défaitiste, reste constamment en moi une voix qui dit : "Bon, ok, imaginons que cesoitbien lecas, que l'avenir est sombre. Mais alors, si on le sait, ne serait-ilpas naturelde sedire qu'en conséqunece, nous allons faire quelque chose, pour changer cela??"
 
 Faisant ce constat, jemedis alors :
 
@@ -200,7 +200,7 @@ Vous pourrez tourner, retourner l'idée autant que nécessaire, je dis qu'appliq
 
 Dit de manière imagée, il faut, que dans les moments les plus difficiles à supporter, il existe toujours une raison, indépendante des circontstances du moment, une bonne raison, pour continuer, malgré les difficultés, à s'appliquer une rigueur professionnelle, età respecter une éthique.
 
-Dit de manière plus scientifique, en présence d'un contrat clairement établit, la proportion des humains qui continuent à s'appliquer une rigeur professionnelle, est beaucoup plus grande
+Dit de manière plus scientifique, en présence d'un contrat clairement établit, la proportion des humains qui continunet à s'appliquer une rigeur professionnelle, est beaucoup plus grande
  qu'en l'absence d'un tel contrat. "Je me suis engagé, j'ai lu les termes du contrats, et j'ai été d'accord avec ceux-ci, c'est une bonne raison de continuer."
 
 
@@ -249,9 +249,9 @@ Dès lors, se rappellant que ce dont nous parlons, est un contrat social :
     * et quelles sont les contreparties échangées, envisagées jusqu'aujourd'hui ?
     * Eh oui, nous, y voilà, à la racine du problème : l'échange envisagé n'allait que dans un seul sens, pour l'instant : ce sont les professionnels des technologies de l'information, qui doivent approter leur aide bénévole.
 
-Oui, voilà, le fond du problème  ! DAns ce quidoti être un écahgne un seul sens a été envisagé jusque là !
+Oui, voilà, le fond du problème  ! Dans ce qui doit être un échange un seul sens a été envisagé jusque là !
 
-Alors la solution est dès lors simple (etnosu verrons que tant de phénomènes, s'expliquent alors si clairement, avec ce point de vue! ) :
+Alors la solution est dès lors simple (etnosu verrons que tant de phénomènes, s'expliqunet alors si clairement, avec ce point de vue! ) :
 * Il faut trouver une contre partie, accordée par les Citoyens Français, aux professionnels des technologies de l'information, en contrepartie de leur travaill bénévole.
 
 
@@ -269,7 +269,7 @@ Voilà pourquoi j'ai intitulé "le Retour du Roy", cette dernière partie : parc
 De déposer la Souveraineté, en matière de technolgies de l'information, dans les mains du Roy, pour lui prêter allégeance, et obtenir en retour l'anoblissement, de notre Profession.
 
 
-Bien, oui, c'est une idée puissante, extraordinairement puissante, uen idée qui n'a jamais été énoncée, nulle part, si clairement, en relation avecle conept de cocntrat social.
+Bien, oui, c'est une idée puissante, extraordinairement puissante, une idée qui n'a jamais été énoncée, nulle part, si clairement, en relation avecle conept de cocntrat social.
 
 Mais je le répète :
 * le plus important d'un contrat est que dans les faits, ses termes soient respectés de part et d'autre.
@@ -403,7 +403,7 @@ Ce vote, permettra de prioriser les tâches rdigées sous forme d'"issues" https
 * Ouvrir le vote, à tous,sans restrictions, membres de l'association ou non, permetde démontrer le caractère d'intérêt général, et n'est pas "dangereux" pour les projets :
   * pour voter, d'abord il faut se créerun utilisateur https://github.com,
   * si vraimentl'on cosntatiat que des utilisateurs https://github.com votaient en masse, de manière illogique, pour perturber la rpiorisation des tâches, le vote étant identifiés, il sera alors facile :
-    * de décider ne plus prendre ne compte que les votes des membres de l'association, (à qui nous demanderons de confirmer l'asociation de leurs adresses e-mail, à leur utilisateur https://github.com, par uen procédure automatisée)
+    * de décider ne plus prendre ne compte que les votes des membres de l'association, (à qui nous demanderons de confirmer l'asociation de leurs adresses e-mail, à leur utilisateur https://github.com, par une procédure automatisée)
     * de recompter les votesautomatiqueemnt, en "triant les votant confirmés", grâce à un aspect technique de https://github.com _l'API Github v4_
     * et de communiquer publiquement pour expliquer lesraison pur lesquelles nous avons du restreindre le vote aux seuls membres confirmés de l'association.
     * ce qui aura un effet positif, montrant notre maîtrise technique, et notre impact :nosu ne seriosn pas l'objet de telles attaques, si notre travail n'était pas assez significatif, poru que certains intérêt dépensent des sommes mportantes, pour payer des campagnes de milliers d'utilsiateurs ...etc...)
@@ -429,7 +429,7 @@ _**Attritubtion des tâches**_
     ## ANNEXE B : quelques élemnts de réflexions qui ont motivés mes propositions de modalités.
 
 
-    D'abord, quelques éléments très concrets, les uns après les autres, qui expliquent pourquoi le "paradoxe" évoqué apparaît, et
+    D'abord, quelques éléments très concrets, les uns après les autres, qui expliqunet pourquoi le "paradoxe" évoqué apparaît, et
     permettent de déuire que la solution  (à chaque point, je sollicite les questions de l'audience, je note les questions, et y
     répond une fois la liste de points terminée) :
 
@@ -444,7 +444,7 @@ _**Attritubtion des tâches**_
       * le logicel produit, devra avoir un nom, et lui sera associé un nom de domaine public sur internet : cet élément est très important, vital, même, car c'est le seul moyen pour un tel logiciel, d'être accessible, par n'imorte qui, autrement dit d'avoir la moindre existence.
       * le nom de domaine (internet), et l' "organisation github" devront donc être sous le contrôle total, et la propriété juridique d'une association Loi 1901, à but non-lucratif.
     * Un professionnel de mon corps de métier ne s'engagera jamais, ou difficilement, pour l'intérêt général, bénévolement, sur un projet, tant qu'il y aura un membre de notre corps de métier, qui sera son supérieur hiérarchique (qui pourra lui impsoser sans recours possible, des décisions) :
-      * Cela est compréhensible, parce que l'image dans notre métier est très importante : être supérieur hiérarchique (avorile pouvoir de décisionen dernier recours) d'une équipe, représente un intérêt professionnel conséquent, surtout pour des projets "open-source", ce qui constitue **un conflit d'intérêt**, avec l'intérêt général.
+      * Cela est compréhensible, parce que l'image dans notre métier est très importante : être supérieur hiérarchique (avorile pouvoir de décisionen dernier recours) d'une équipe, représente un intérêt professionnel conséqunet, surtout pour des projets "open-source", ce qui constitue **un conflit d'intérêt**, avec l'intérêt général.
       * De plus, il existe un cas légitime, reconnu par tous, pour lequel un professionnel de notre coprs de métier peut vooir son image profesionnelle bénéficier du travail qu'il fait bénévolement :
         * en faisant autorité, non parce que décideur en dernier retour, pour une équipe, mais parce que son avis, ses recommandations, et son exepertises, sont beaucoup sollicitées parsa propre équipe.
         * en faisant autorité, non parce que décideur en dernier retour, pour une équipe, mais parce qu'il a produit un travail reconnu de qualité, ou relevant d'une très bonne idée,
