@@ -181,7 +181,7 @@ Avant d'exposer mon idée, je vais énoncer de manière concise, les quelques co
 
 L'ensemble de ces constations peut s'expliquer par l'idée que je vais expliquer en l'exposant "à l'envers" : je vais d'abord montrer comment cette idée résoud le paradoxe déjà plusieurs fois mentionné, pour ensuite dévoiler pleinement cette idée, son concept.
 
-_**Résolution du paradoxe qui n'en est un qu'apparrement**_
+_**Résolution du paradoxe qui n'en est un, qu'apparrement**_
 
 
 D'abord, quelques éléments très concrets, les uns après les autres, qui expliquent pourquoi le "paradoxe" évoqué apparaît, et
