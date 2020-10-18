@@ -301,10 +301,13 @@ Pour démontrer le caractère d'intérêt général, que l'association accorde, 
 
 ![vote parclicpouce haut](images/statuts/modalites/vote-taches/modalite-vote-poucve-haut-id-votant.png)
 
+
 * il sera possible d'identitifer chaque votant, ce vote n'est donc pas anonymisé. Il s'agit cependant de voter pour prioriser des tâches techniques, relativement loin de choses telles que des opinions politiques ou religieuses, par exemple.
 * le nombre total de votes (de "pouces haut"), est automatiquement réalisé par https://github.com,commelemontre cet exemple :
 
+
 ![nb total votes](images/statuts/modalites/vote-taches/nb-total-pouces-hauts.png)
+
 
 * à tout moment, un votant peut retirer son vote, en cliquant une seconde fois sur l'icône totalisant le nombre de votes "pouce haut", ce qui ne retirera que le vote de l'utilsateur ayant cliqué.
 * toute sélection de "réaction" autre que le "pouce haut", ne sera pas comptabilisée en tant que vote
