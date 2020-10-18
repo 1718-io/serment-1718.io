@@ -99,7 +99,7 @@ Vous ne partagerez peut-être pas certaines opinion, que je vais exprimer, et je
 
 Je vais simplement exprimer ces opionins, proposer à chacun se faire la sienne, en exposant deux faits, qui ont été un tournant, pour la naissance de l'idée, dont je suis en train de vous faire la génèse.
 
-* Le premier fait, dont je pense, vous conviendrez est le suivant : D'abord, aujourd'hui la société Française dans son écrasante majorité, convient, et est tout à faite consciente, que les technologies sont un enjeu pour l'ensemble de la société. Quelque chose qui peut changer leur vie, très concrètement, parfois violemment, parfois subrepticement, parfois pour le bien, parfois pour le mal, des citoyens. Un enjeu de pouvoir. Ilsuffit que je rappelledesépiodes comem"laquestion d'Uber(lestaxis)", pour que vous trouviez vous-même multitude d'autres exemples montrant à quel point ce pouvoir s'est déjà manifesté. Et pour que vous n'ayaez pas de malà croire que ce pouvoir ne va faire que se renforcer.
+* Le premier fait, dont je pense, vous conviendrez est le suivant : D'abord, aujourd'hui la société Française dans son écrasante majorité, convient, et est tout à faite consciente, que les technologies sont un enjeu pour l'ensemble de la société. Quelque chose qui peut changer leur vie, très concrètement, parfois violemment, parfois subrepticement, parfois pour le bien, parfois pour le mal, des citoyens. Un enjeu de pouvoir. Ilsuffit que je rappelledesépiodes comme"laquestion d'Uber(lestaxis)", pour que vous trouviez vous-même multitude d'autres exemples montrant à quel point ce pouvoir s'est déjà manifesté. Et pour que vous n'ayaez pas de malà croire que ce pouvoir ne va faire que se renforcer.
 * Le second fait que je vais exprimer, en quelques points, et avec des opinions, que je vous laisse donc le soin de partager ou non :
   * Il y a eut le "mouvement des Gilets Jaunes".  Mon opinion, est qu'il y avait, non pas des dizaines, mais au moins des centaiens de milliers de personnes, dès les premières semaines, impliquées dans ces évènements.
   * Dans le même temps, j'ai à nouveau écouté (je l'avais déjà écouté quelqeus fois), amplifié par ces fameux "Gilets Jeunes" le propos d'un certain monieur Etienne Chouard :
@@ -150,7 +150,15 @@ Et d'autre part :
 Voilà, ce qui a déclenché finalement, le travail qui a donné naissance à l'idée que je vais vous exposer.
 
 
-Lorsque je fais un exposé Oral, dasn une assemblée, de cette génèse, à ce point là de l'exposé en particulier, comemà d'autres précédemment, je  propose de faire un échange question / réponses (Avez-vous des questions ?)
+Lorsque je fais un exposé Oral, dans une assemblée, de cette génèse, à ce point là de l'exposé en particulier, comme à d'autres précédemment, je  propose de faire un échange question / réponses (Avez-vous des questions ?)
+
+Je le fais en particulier, pour que les membres de l'assistance, qui sont des professionnels de mon métier, émettent des objections, posent
+des questions, sur l'analyse qui m'amenée à identifier ledit paradoxe :
+
+Ainsi, lorsque l'ensemble de l'assistance, voit que mes confrères, rapidement, conviennent de la justesse de mon analyse, l'assistance toute entière, est elle-même convaincue, constatant le consensus parmi les professionnels du métier.
+
+L'assistance sait ainsi, que mon analyse repose sur des concepts si largement admis dans notre métier, qu'ils sont incontestables.
+
 
 
 #### Le Retour du Roy
