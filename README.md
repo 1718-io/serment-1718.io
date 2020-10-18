@@ -184,10 +184,12 @@ _Dans un premier jet de rédaction, je me suis proposé par exposer mon idée "�
 
 _Il m'est alors apparu évident que cette approche n'était pas la bonne. Aussi dans cette nouvelle rédaction, je vais d'emblée présenter cette idée, pure, distillée._
 
-_Pour laisser dans une annexe, le développement de mes raisonnements: au cours d'un exposé, d'une discussion publique, je détaille les éléments de ce raisonnement, un par uns seulement lorsque les questions etobjections de l'assistance le nécessite._
+_Pour laisser dans une annexe, le développement de mes raisonnements: au cours d'un exposé, d'une discussion publique, je détaillerai les éléments de ce raisonnement, un par un, seulement lorsque les questions et objections de l'assistance le nécessiteront._
 
 
-L'ensemble de ces constations peut s'expliquer par l'idée que je vais expliquer en l'exposant "à l'envers" : je vais d'abord montrer comment cette idée résoud le paradoxe déjà plusieurs fois mentionné, pour ensuite dévoiler pleinement cette idée, son concept.
+_**L'idée**_
+
+
 
 _**Résolution du paradoxe qui n'en est un, qu'apparrement**_
 
