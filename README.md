@@ -233,9 +233,9 @@ Ce type de contrat, n'est pas le genre de contrat que l'on signe au coin d'une t
 
 Voici quelle donc enfin cette idée, épurée :
 * ce qui fait que les tentatives précédentes ont toutes échouées, pour la mise au service de l'intértêt général, des professionnels des technologies de l'information
-* c'est qu'il n'y a jamais d'établissement d'un contrat clair, et pour cause :
-  * la médecine est une corporation vieielle d'au moins deux mille ans, là où les professions des technologies de l'infromation existent depuis moins de 80 années, depuis Alan Türing au maximum.
-  * de mêmla profesion d'avocat esticomparablement plus ancienne, que totue profession des métiers des technlogies de l'infromation.
+* c'est qu'il n'y a jamais eut d'établissement d'un contrat clair, et pour cause :
+  * la médecine est une corporation vieille d'au moins deux mille ans, là où les professions des technologies de l'infromation existent depuis moins de 80 années, depuis Alan Türing au maximum.
+  * de même la profession d'avocat est incomparablement plus ancienne, que toute profession des métiers des technlogies de l'infromation.
 * **Eurêka! voilà, ce qu'il manque pour que la tentative réussise** :
   * **un contrat clair**
 
@@ -244,27 +244,27 @@ Dès lors, se rappellant que ce dont nous parlons, est un contrat social :
 * et nous pourrions nous dire que la route est longue, avant de pouvoir espérer pouvoir obtenir la moindre action significative de citoyen professionnels des technlogies de l'information, concrète, au service des citoyens.
 * et je dis que cela est totlament, faux, qu'au contraire, il est posible de le mettre en oeuvre très rapidement, dès aujourd'hui :
   * en effet, la première chose,laplus importante, dans un cotnrat, est le respect, par les pairtes, de l'échange des contreparties
-  * hors le problème n'est pas aujorud'hui un papier, mais le fait que nosu n'avons pensé **qu'une seule** des contreparties de ce contrat, en effet :
-    * les deux dsignataires du ocntrats sont : les Citoyens Français d'une part, et les professiionnels des technolgies de l'information d'autre part
+  * hors le problème n'est pas aujorud'hui un papier, mais le fait que nous n'avons pensé **qu'une seule** des contreparties de ce contrat, en effet :
+    * les deux signataires du contrat sont : les Citoyens Français d'une part, et les professionnels des technolgies de l'information d'autre part
     * et quelles sont les contreparties échangées, envisagées jusqu'aujourd'hui ?
-    * Eh oui, nous, y voilà, à la racine du problème : l'échange envisagé n'allait que dans un seul sens, pour l'instant : ce sont les professionnels des technologies de l'information, qui doivent approter leur aide bénévole.
+    * Eh oui, **nous, y voilà, à la racine du problème !!** l'échange envisagé n'allait que dans un seul sens, pour l'instant : ce sont les professionnels des technologies de l'information, qui doivent approter leur aide bénévole.
 
-Oui, voilà, le fond du problème  ! Dans ce qui doit être un échange un seul sens a été envisagé jusque là !
+Oui, voilà, le fond du problème ! Dans ce qui doit être un échange un seul sens a été envisagé jusque là !
 
-Alors la solution est dès lors simple (etnosu verrons que tant de phénomènes, s'expliqunet alors si clairement, avec ce point de vue! ) :
+Alors la solution est dès lors simple (et nous verrons que tant de phénomènes, s'expliqunet alors si clairement, avec ce point de vue! ) :
 * Il faut trouver une contre partie, accordée par les Citoyens Français, aux professionnels des technologies de l'information, en contrepartie de leur travaill bénévole.
 
 
 Tout le passionant de laquestion toute nouvelle consiste alors à imaginer : "Alors, que pouvons nous leur offrir en échange ?"
-* cette contrepartie, nosu le comprenons très rapidement, ne sera pas une contrepatie pécunière, financière.
-* L'idée vient de naître, aussi avant tout, je dis qu'il est passionant, et fodamental, d'ouvrir la question.
+* cette contrepartie, nous le comprenons très rapidement, ne sera pas une contrepatie pécunière, financière.
+* L'idée vient de naître, aussi avant tout, je dis qu'il est passionant, et fondamental, d'ouvrir la question.
 * L'un des contreparties, qui pourra être accordéé, par le Peuple Français, seul Souverain légitime, seulRoy de France, pour accorder ce privilège, concerne tout ce qui est discuté autour du terme "lanceur d'alerte". Dès ce mot prononcé, la question ne lm'appartient plus, je sais la passion avec laquelle vous vous en emarerez, maintenant que queqleu chse de sérieux, au niveau d'une civilisation, est envisageable.
 
 Le Seul Souverain légitime, à accorder un tel privilège, à anoblir notre profession.
 
 Le seul Roy de France.
 
-Voilà pourquoi j'ai intitulé "le Retour du Roy", cette dernière partie : parce que son objet final, et faire revenir le seul Roy de France, le Peuple Français, en déposant dans ses mains, la souveraineté en matière de technologies de l'information.
+Voilà pourquoi j'ai intitulé "le Retour du Roy", cette dernière partie : parce que son objet final, et faire revenir le seul Roy de France, le Peuple Français, sur son trône, en déposant dans ses mains, la souveraineté en matière de technologies de l'information.
 
 De déposer la Souveraineté, en matière de technolgies de l'information, dans les mains du Roy, pour lui prêter allégeance, et obtenir en retour l'anoblissement, de notre Profession.
 
@@ -280,7 +280,7 @@ Cela semble encore abstrait, mais j'insiste encore plus fort, cette fois dans l'
 * Non seulement on peut donner une réalité à ce contrat dès maintenant,
 * Mais en plus, il est vital de le faire, d'abord pour que ce contrat social soit un jour écrit dans la Loi Française,
 * et ensuite pour que les professionnels de notre métier, puissent se mettre au serivce des Citoyens **dès maintenant**
-* À mes confrères, je dis que lorsque l'on prétend vouloir être anobli par le Roy, on prouve d'abord sa valeur, et ensuite seulement, le Roy vous anoblit. Jamais l'inverse. (Et nous sommes nopmbreux à vouloir nosu mettre au serivce de l'intérêt géénral)
+* À mes confrères, je dis que lorsque l'on prétend vouloir être anobli par le Roy, on prouve d'abord sa valeur, et ensuite seulement, le Roy vous anoblit. Jamais l'inverse. (Et nous sommes nopmbreux à vouloir nous mettre au serivce de l'intérêt géénral)
 * À nous tous, je dis que ce qui manque donc, de principal, pour que ce contrat devienne une réalité, est la contrepartie accordée par les Ciroyeens Français, en échange du traail bénévole fournit.
 
 * Il faut donc sans tarder, écrire un premier contrat ensembles :
@@ -406,7 +406,7 @@ Ce vote, permettra de prioriser les tâches rdigées sous forme d'"issues" https
     * de décider ne plus prendre ne compte que les votes des membres de l'association, (à qui nous demanderons de confirmer l'asociation de leurs adresses e-mail, à leur utilisateur https://github.com, par une procédure automatisée)
     * de recompter les votesautomatiqueemnt, en "triant les votant confirmés", grâce à un aspect technique de https://github.com _l'API Github v4_
     * et de communiquer publiquement pour expliquer lesraison pur lesquelles nous avons du restreindre le vote aux seuls membres confirmés de l'association.
-    * ce qui aura un effet positif, montrant notre maîtrise technique, et notre impact :nosu ne seriosn pas l'objet de telles attaques, si notre travail n'était pas assez significatif, poru que certains intérêt dépensent des sommes mportantes, pour payer des campagnes de milliers d'utilsiateurs ...etc...)
+    * ce qui aura un effet positif, montrant notre maîtrise technique, et notre impact :nous ne seriosn pas l'objet de telles attaques, si notre travail n'était pas assez significatif, poru que certains intérêt dépensent des sommes mportantes, pour payer des campagnes de milliers d'utilsiateurs ...etc...)
     * Enfin, notez qu'immensément plus dificle, et coûteux, de créer "de faux utlisateurs", sur https://github.com, que sur https://twitter.com par exemple...
 
 
