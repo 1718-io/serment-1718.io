@@ -183,93 +183,190 @@ En préambule à l'exposé de mon idée, je vais énoncer de manière concise, l
   * Il est statiquement certain, qu'un nombre significatif de professionnels des technologies de l'information, souhaitent sérieuement se mettre, bénévolement, au serivce de l'intérêt général, des Citoyens Français dans leur ensemble.
   * mystérieusement, dès qu'ils se mettent au service de l'intérêt général, les professionels de ces technologies ne recourent pas aux méthodes et connaissances, qu'ils emploient chaque jour, au service de ceux qui les emploie.
   * Et aucune organisation d'équipe "technologies de l'information", même petite, ne s'est constituée, à ce jour.
-* J'ajouterai que le constat fait pour le cas d'un mouvement majeur de Citoyens Français, s'applique encore plus durement, à un grand nombre d'associations à but non-lucratif, qui chacune indépendamment, essaient de faire avancer une question particulière,  dont la plupart des Français ne pourraient penser "que du bien". Par exemple, la condition des non-voyants dans la Société Française, et je suis certain que vous trouveriez des dizaines d'exemples en quelques minutes.
+* J'ajouterai que le constat fait pour le cas d'un mouvement majeur de Citoyens Français, s'applique encore plus durement, à un grand nombre d'associations à but non-lucratif, qui chacune indépendamment, essaie de faire avancer une question particulière, dont la plupart des Français ne pourraient penser "que du bien". Par exemple, la condition des non-voyants dans la Société Française, et je suis certain que vous trouveriez des dizaines d'exemples en quelques minutes.
 
 
-_Dans un premier jet de rédaction, je me suis proposé d'exposer mon idée "à l'envers", expliquant, avant l'énoncéde l'idée elle-même, les raisonnements qui m'ont amené celle-ci.Ce, pour démontrer comment celle-ci permet d'expliquer ces constations, et ce paradoxe._
+_Dans un premier jet de rédaction, je me suis proposé d'exposer mon idée "à l'envers", expliquant, avant l'énoncéde l'idée elle-même, les raisonnements qui m'ont amené celle-ci. Ce, pour démontrer comment celle-ci permet d'expliquer ces constations, et ce paradoxe._
 
 _Il m'est alors apparu évident que cette approche n'était pas la bonne. Aussi dans cette nouvelle rédaction, je vais d'emblée présenter cette idée, pure, distillée, et reléguer dans une annexe, le développement de mes raisonnements. Au cours d'un exposé, d'une discussion publique, je détaillerai les éléments de ce raisonnement, un par un, seulement lorsque les questions et objections de l'assistance le nécessiteront._
 
 
 _**L'idée**_
 
-Pour que les professionnels d'un corps de métier, qu'ils soient médecins, avocats, ou professionnels des technologies de l'information, mettent en oeuvre les méthodes, et
+Pour que les professionnels d'un corps de métier, qu'ils soient médecins, avocats, ou professionnels des technologies de l'information, mettent en oeuvre des méthodes, et
 connaissances, avec une rigueur professionnelle, il est nécessaire, qu'un contrat soit clairement établit :
 
-Vous pourrez tourner, retourner l'idée autant que nécessaire, je dis qu'appliquer une telle rigueur dfe niveau professionnelle, une éthique est extrêment exigeant, quelque soit la profession, et que peu importe la valeur moreal de cahque individu, pour qu'ils trouvent la force, les raisons, à chaqu emoement de doute, de continuer, à appliquer cette rigueur professionnelle, il ont besoin, qu'un contrat soit clairement établit.
+Vous pourrez tourner, retourner l'idée autant que nécessaire, je dis qu'appliquer une telle rigueur dfe niveau professionnelle, une tel niveau d'éthique est un exercie extrêmement exigeant, pour tout humain. Ce, quelque soit la profession, et que peu importe la valeur morale de l'individu. Aussi pour qu'ils trouvent la force, les raisons, à chaque moment de doute, de continuer à appliquer cette rigueur professionnelle, cetteéthique, ils ont besoin, qu'un contrat soit clairement établit.
 
-Dit de manière imagée, il faut, que dans les moments les plus difficiles à supporter, il existe toujours une raison, indépendante des circontstances du moment, une bonne raison, pour continuer, malgré les difficultés, à s'appliquer une rigueur professionnelle, età respecter une éthique.
+Dit de manière imagée, il faut, que dans les moments les plus difficiles à supporter, il existe toujours une raison, indépendante des circontstances du moment, une bonne raison, pour continuer, malgré les difficultés, à s'appliquer une rigueur professionnelle, et à respecter une éthique.
 
-Dit de manière plus scientifique, en présence d'un contrat clairement établit, la proportion des humains qui continunet à s'appliquer une rigeur professionnelle, est beaucoup plus grande
- qu'en l'absence d'un tel contrat. "Je me suis engagé, j'ai lu les termes du contrats, et j'ai été d'accord avec ceux-ci, c'est une bonne raison de continuer."
+Dit de manière plus scientifique, en présence d'un contrat clairement établit, la proportion des humains qui continunet à s'appliquer une rigueur professionnelle, est beaucoup plus grande
+ en présence, qu'en l'absence d'un tel contrat :
 
+_"Je me suis engagé, j'ai lu les termes du contrats, et j'ai été d'accord avec ceux-ci, c'est une bonne raison de continuer."_
 
 
 Mais qu'est qu'un contrat ?
-C'est avant tout l'énoncé clair de **l'échange de deux contreparties**, entre deux parties, signataires dudit contrat :
+
+C'est avant tout l'énoncé clair de **l'échange de deux contreparties**, entre les deux signataires dudit contrat :
 
 >
 > "Moi A, et Moi B, nous sommes mis d'accord pour dire que lorsque A apporte tellechose, B apporte en contrepartie, telle autre chose."
 >
 
-* pour les médecins, la "formule magique" fonctionne, parceque le contrat test clair :
+Il existe des contrats qui s'établissent entre trois, signataires, et mêem plus, mais je vais me restreindre au cas d'un contrat bipartite.
+
+* Pour les médecins, la "formule magique" fonctionne, parce que le contrat test clair :
   * parce qu'il est inscrit dans la Loi, et dans ce qui est appelé Serment D'hypocrate,
   * parce qu'il l'est depuis longtemps, et que les contrparties sont donc clairement connues de l'enemble des citoyens.
   * Tout le monde sait qu'un médecin a **le devoir** de mettre l'intérêt de la santé deson patient, avant tout autre intérêt. L'actualité récent (2020,covid) ne fait que faire retentir fortement, à quel point ce contrat est profondément acquis, parmi les Citoyens.
   * Et tout lemonde sait que le médecin, a **le devoir**, d'opposer le secret profesionnel à toute personne qui lui demande des informations de santé sur un de ses patients, fusse-t-il un représentant de la Loi.
   * En **contrepartie** de ces devoirs, et s'il a les diplômesreqiuis, un citoyen obtient **le droit** d'exercer la profeession de médecin.
 * pour les avocats, le constat est le même :
-  * personne en 2020, mmême s'il ne saura pas l'expliquer correctment, ne se demandera aujourd'hui pourquoi, il existe la notion d'avocat commis d'office. Il est acquis que c'est **le devoir** des avocats, d'assuerer ce service.
+  * personne en `2020`, mmême s'il ne saura pas l'expliquer correctment, ne se demandera aujourd'hui pourquoi, il existe la notion d'avocat commis d'office. Il est acquis que c'est **le devoir** des avocats, d'assuerer ce service.
   * de même pour le **devoir** de secret professionnel des dossiers de ses clients, en vertu de la notion de Justice.
   * et en **contrepartie** de ces devoirs, et s'il a obtenu les diplômes nécessaires, un citoyen obtient **le droit** d'exercer la profession d'avocat.
 
 Dans le cas de ces deux corps de métier, avocats et médecin, nous avons affaire à un **contrat**.
 
-Mais il ne s'agit pas un contrat de travail, il s'agit d'un **contrat social**, où:
+Mais il ne s'agit pas un contrat de travail, il s'agit d'un **contrat social**, où :
 * les contreparties sont des droits, et des devoirs.
 * et les parties signataires sont d'une part une corporation professionnelle, et d'autre part, l'ensemble des Citoyens Français.
 
 Ce type de contrat, n'est pas le genre de contrat que l'on signe au coin d'une table de restaurant. Il ne peut être entériné que par son inscription dans la Loi Française.
 
 Voici quelle donc enfin cette idée, épurée :
-* ce qui fait que les tentatives précédentes ont toutes échouées, pour la mise au service de l'intértêt général, des professionnels des technologies de l'information
+* ce qui fait que les tentatives précédentes ont toutes échouées, pour la mise au service de l'intérêt général, des professionnels des technologies de l'information
 * c'est qu'il n'y a jamais eut d'établissement d'un contrat clair, et pour cause :
-  * la médecine est une corporation vieille d'au moins deux mille ans, là où les professions des technologies de l'infromation existent depuis moins de 80 années, depuis Alan Türing au maximum.
-  * de même la profession d'avocat est incomparablement plus ancienne, que toute profession des métiers des technlogies de l'infromation.
+  * la médecine est une corporation vieille d'au moins deux mille ans,
+  * de même la profession d'avocat est très ancienne,
+  * là où les professions des technologies de l'infromation existent depuis moins de 80 années, depuis Alan Türing au maximum.
 * **Eurêka! voilà, ce qu'il manque pour que la tentative réussise** :
   * **un contrat clair**
+
+Et voilà pourquoi je pense que ma corporation professionnelle, est une sorte d'adoslecent, là ou d'autres, sont passées à l'age adulte: elle n'a pas de contrat social.
+
+_**Sur la nécessité du Contrat Social**_
+
+Avant de développer mon idée, en me concentrant sur la problématique que rencontrent les associations, les grands mouvements de Citoyens, pour se doter "d'équipes technologies de l'information", je vais compléter mon idée abstraite.
+
+Nous avons l'idée d'un contrat social, nous en connaissons les sigantaires, et avant de commencer à imaginer les contreparties échangées, je veux insister sur un point supplémentaire :
+
+En quoi ce contrat (social), est-il nécessaire ? En effet, toutes les professions n'ont pas établit de contrat social, alors, pourquoi, dans le cas des professions des technologies de l'information, y aurait-il nécessité à en établir un?
+
+Comme vu précédemment, le contrat que nous envisageons comporte deux (futurs) signataires, deux "_parties_".
+
+Je dis, que pour qu'un contrat soit nécessaire, il faut qu'il le soit, **pour les deux parties**.
+
+Alors, le contrat que nous imaginons, envisageons, est-il nécessaire aux deux parties ?
+
+Je pense que oui, que cela paraîtra évident ensuite, et je dis que pour qu'il ait évidence, il y  a nécessité à l'énoncé une toute première fois, clairement. Je vais donc le faire.
+
+Les deux _parties_, sont :
+* les professionels des métiers des technolgies de l'information
+* le Peuple, la société dans son ensemble.
+
+
+_Ce contrat est-il nécessaire aux Citoyens Français ?_
+
+Oui, et pour une raison très simple et pesant extrêment lourd :
+
+Nous l'avons vu, aujourd'hui, les Citoyens Français, ont dans leurs écrasante majorité, sont consicent que les technoliges de l'information sont un enjeu majeur de société, un péril gigantesque.
+C'est une des raison pour laquelle je pense que le temps est venu, pour la naissane de ce contrat social, car il n'y aura pas de débat,n et aucune difficulté à convaincre, voire même aucun argument à dévelpper, pour en convaincre qui que ce soit.
+
+Alors il me suffit d'ajouter ceci, pour convaincre le Citoyen qu'il a un besoin vital, de ce contrat social :
+* depuis plsuieurs dizaines d'années, toutes les entreprises, de tous les secteurs économiques, qui sont assez grosses pour en avoir les moyens financiers, se dotent d'un service, une "division", particulière, souvent en Français, appelé "la DSI"
+* De quoi s'agit-il ? C'est très simple :
+  * ces entreprises paient des professionnels des technoliges de l'information, pour :
+    * les conseiller, en matières de technologies de l'information (quels choix de logiciels faire? Y a til une faille de sécurité dans les PC de mes commerciaux ? Est-il possible d'utiliser plsu de serveurs ? Est-il possible d'tuiliser la blockchain pour faire tel truc pour nos clietns, et si oui, quelle blockchain devrions-nous utiliser ? etc..etc... de toutes sortes de questions)
+    * développer, maintenir, et exploiter les logiciels que tous les salariés de l'entreprise utilisent
+* Alors pourquoi, ces entreprises, dans tous les secteurs économiques, et tous les pays du Monde, se dotent d'une telle "équipe", toutes, sans exception ?
+* Parce que pour elles, comme pour la société dans son ensemble, les technologies de l'information sont un enjeu majeur, tellement majeur, que c'est vrai dans tous les pays du monde, et tous les secteurs économiques. Tellement majeur, que toutes les entreprises qui ne l'ont pas fait, sont toutes mortes. Et il ne rest euajourd'hui, que celles qui l'ont fait, tandis que toutes celles qui deveinnent assez grosses, le font systématiquement, invariablement.
+* Bien. Cette "équipe" , cette "DSI", dont toutes les sociétés, enrtreprises se doent, a pour fonction, pour le résumer :
+  * de les protéger des périls que les nouvelles technologies qui apparaissent chaque année, leur font courir, en les conseillant sur toutes ces nouveautés. En les infromant de ce qu'elles sont, pour pouvoir prendre les bonnes décisions stratégiques.
+  * de les doter des logiciels les plus adaptés, à leur besoin: afin de rester compétitives, face à la conccurrence.
+
+L'ensemble des Citoyens Français, comme une entreprise, a besoin de cette "équipe", pour la protéger, la tenir informer, "lui dire la vérité", sur telle ou telle nouvelle chose :
+
+Et c'est ce que les Citoyens Français obtiedront, dans le Contrat Social qui est le coeur de mon idée.
+
+C'est le devoir des avocats, de défendre les intérêts des Citoyens qui n'ont jamais fait d'tudes juridiques, et n'ouvriront jamais un Texte de Loi. Y compris en étant régulièrement avocats commis d'office.
+
+C'est le devoir des Médecins, de veiller à l'intérêt de leur patients, qui n'étudieront jamais la biologie, ou la médecine, et il ne s'agit pas de leur compte en banque, mais de leur santé.
+
+Et ce sera le devoir de nos professionnels des technologies de l'information, de protéger les Citoyens Français, des périls des technologies de l'information :
+
+Comment, le frontils, sur le plan pratique, il faudra l'imaginer, mais un début d'idée est :
+
+* que chaque professionnels des technolo. de l'inf. devra assurer un service public gratuit,
+* par exemple une journée par an.
+* Obligation d'un stage de 3mois pour tous les étudiants en dernière année ?
+* Tant d'idées possibles... !
+
+Si bien qu'il y aura en permanence une "DSI" au service du Peuple Français, comme il y a toujours des avocats commis d'office, lorsqu'un Citoyen en a besoin.
+
+Enfin, non seulement le Peuple Français a un besoin Vital, de cette "équipe", cette "DSI des Français", mais en plus, seule notre profession est en capacité d'assurer ce service pour la Nation.
+
+Voilà donc une nécessité claire, et sans appel.
+
+
+_Ce contrat est-il nécessaire aux professionnels des métiers des technolgies de l'information ?_
+
+Je pense que oui :
+
+* Pour que nous obtenions, nous aussi, notre "formule magique" : et cela n'est pas rien, nosu parlons là d'être pris bien plsu au sérieux, par nos clients, employeurs, là où nous avons tous connus des situations catastrophiques, "alors que nosu aviosn prévenu de ce qui arriverai"
+* Pour que nous ne soyions plus considérés, comme des "vaches à produire du code", que l'on met dans un sous-sol et à qui l'on ne demande aucun avis, pour les choix stratégiques. Cela arrive trop souvent, et il est temps que nosu soyions considérés comme des ingénieurs, qui ont une pensée, et des responsabilités.
+* Pour faire cesser, une disproportion, inacceptablement très courante. Les "SSII" / "ENI", sont des exemples typiques, souvent caricatures extrêmes, de ces disproportions :
+  * Ces sociétés emploient des "consultants", les "vendent",
+  * et les "commerciaux" et dirigeants touchent des salaires double triple, quadruples, quintuples, et plus encore, des "consultants" (ceux qui assurent l'activvité opérationnelle).
+  * Certes, que les administratifs, les commerciaux, les secretaires, les activités supports, ont toute légitimité à toucher un salaire.
+  * Maintenant, que les "non-techniques", touchent 80% des revenus de notre travail, et nous 20%, cela me semble un tant soit peu disproportionné, pour rester extrêment modéré.
+  * Regardezle nombre de commerciaux, de secrétaire, de directeurs de ceci, ou de cela : pensez-vous vraiement que les médecins s'mbarassnt d'autant de secrétaires, de manegrss de ceci, de cela, pour gérer leurs cabinets mlédicaux, prendre les appels, gérer la comptabilité ?
+  * Nous professionnels des tecnologies de l'information, il ne serait pas plus difficile que pour un médecin, oou un avocat, de créer un statut d'entreprise, et de payer une secrétaire et une comptable, pur gérer l'administratif.
+  * D'ailleurs nombre d'entre nous le font déjà. Si cela n'est pas courant, c'est simplement parce que **la Loi**, est écrite pour rendre cela difficile pour notre profession, là où la même **Loi** le rend facile, pour les avocats et médecins : par ce que la Loi, a définit les professiosn de médecins, et avocats, comme étant des professions libérales. Ah, et si nus devenions une profession libérale ? Combien parmi vous, "sont chez le client toute la semaine, et voient leur SSI / ESI tous les 3 mois, et 10 minutes au téléphone par semein, maximum" ? Hum ?
+  * Cette disporportion, est présente dans de nombreuses formes d'emploi, des professionnels des technoligies de l'information, pas seulement les "SSII" / "ESI". En France, en tout cas. Nous pourrions donc penser devenir une profession Libérale.
+* Voilà quelques raisons, et je pense que l'aspect disproportion financière, sera l'un des meilleurs arguement,s bien que je ne pense pas impossible que mes confrères trouvent d'autres idées tout aussi fortes.
+
+
+
+
+_**Sur la problématique rencontrée par les associations, les grands mouvements de Citoyens, pour se doter "d'équipes technologies de l'information"**_
 
 Dès lors, se rappellant que ce dont nous parlons, est un contrat social :
 * nous nous rappelons que ce contrat ne peut s'établir formellement que par l'inscription dans la Loi
 * et nous pourrions nous dire que la route est longue, avant de pouvoir espérer pouvoir obtenir la moindre action significative de citoyen professionnels des technlogies de l'information, concrète, au service des citoyens.
-* et je dis que cela est totlament, faux, qu'au contraire, il est posible de le mettre en oeuvre très rapidement, dès aujourd'hui :
-  * en effet, la première chose,laplus importante, dans un cotnrat, est le respect, par les pairtes, de l'échange des contreparties
-  * hors le problème n'est pas aujorud'hui un papier, mais le fait que nous n'avons pensé **qu'une seule** des contreparties de ce contrat, en effet :
+* et je dis que cela est totalement, faux, qu'au contraire, il est possible de le mettre en oeuvre très rapidement, dès aujourd'hui :
+  * en effet, la première chose, la plus importante, dans un contrat, est le respect, par les parties, de l'échange des contreparties.
+  * hors le problème n'est pas aujourd'hui la promulgation d'une nouvelle Loi, mais le fait que nous n'avons pour l'instant, pensé, **qu'une seule** des contreparties de ce contrat. En effet :
     * les deux signataires du contrat sont : les Citoyens Français d'une part, et les professionnels des technolgies de l'information d'autre part
     * et quelles sont les contreparties échangées, envisagées jusqu'aujourd'hui ?
-    * Eh oui, **nous, y voilà, à la racine du problème !!** l'échange envisagé n'allait que dans un seul sens, pour l'instant : ce sont les professionnels des technologies de l'information, qui doivent approter leur aide bénévole.
+    * Eh oui, **nous, y voilà, à la racine du problème !!** l'échange envisagé n'allait que dans un seul sens, jusqu'aujourd'hui : les professionnels des technologies de l'information, qui doivent approter leur aide bénévole.
 
 Oui, voilà, le fond du problème ! Dans ce qui doit être un échange un seul sens a été envisagé jusque là !
 
-Alors la solution est dès lors simple (et nous verrons que tant de phénomènes, s'expliqunet alors si clairement, avec ce point de vue! ) :
-* Il faut trouver une contre partie, accordée par les Citoyens Français, aux professionnels des technologies de l'information, en contrepartie de leur travaill bénévole.
+Alors la solution est dès lors simple (et nous verrons que tant de phénomènes, s'expliquent alors si clairement, avec ce point de vue! ) :
+* Il faut trouver une contre partie, accordée par les Citoyens Français, aux professionnels des technologies de l'information, en contrepartie de leur travail bénévole.
 
 
-Tout le passionant de laquestion toute nouvelle consiste alors à imaginer : "Alors, que pouvons nous leur offrir en échange ?"
+Un des aspects passionant de l'idée, toute nouvelle, consiste alors à imaginer (la réponse à la question) : "Alors, que pouvons nous leur offrir en échange ?"
 * cette contrepartie, nous le comprenons très rapidement, ne sera pas une contrepatie pécunière, financière.
 * L'idée vient de naître, aussi avant tout, je dis qu'il est passionant, et fondamental, d'ouvrir la question.
-* L'un des contreparties, qui pourra être accordéé, par le Peuple Français, seul Souverain légitime, seulRoy de France, pour accorder ce privilège, concerne tout ce qui est discuté autour du terme "lanceur d'alerte". Dès ce mot prononcé, la question ne lm'appartient plus, je sais la passion avec laquelle vous vous en emarerez, maintenant que queqleu chse de sérieux, au niveau d'une civilisation, est envisageable.
+* L'un des contreparties, qui pourra être accordéé, par le Peuple Français, seul Souverain légitime, seul Roy de France, pour accorder ce privilège, concerne tout ce qui est discuté autour du terme "lanceur d'alerte". Dès ce mot prononcé, la question ne m'appartient plus, je sais la passion avec laquelle vous vous en emparerez, nul besoin que je m'engoufre dans ce sujet.
 
 Le Seul Souverain légitime, à accorder un tel privilège, à anoblir notre profession.
 
 Le seul Roy de France.
 
-Voilà pourquoi j'ai intitulé "le Retour du Roy", cette dernière partie : parce que son objet final, et faire revenir le seul Roy de France, le Peuple Français, sur son trône, en déposant dans ses mains, la souveraineté en matière de technologies de l'information.
+Voilà pourquoi j'ai intitulé "le Retour du Roy", cette dernière partie :
 
-De déposer la Souveraineté, en matière de technolgies de l'information, dans les mains du Roy, pour lui prêter allégeance, et obtenir en retour l'anoblissement, de notre Profession.
+Parce que son objet final, est faire revenir le seul Roy de France, le Peuple Français, sur son trône, en
+déposant dans ses mains, la souveraineté en matière de technologies de l'information.
+
+De déposer la Souveraineté, en matière de technolgies de l'information, dans les mains du Roy, pour
+lui prêter allégeance (se mettre au service du Peuple Français), et obtenir en retour l'anoblissement, de notre Profession (le contrat social).
 
 
-Bien, oui, c'est une idée puissante, extraordinairement puissante, une idée qui n'a jamais été énoncée, nulle part, si clairement, en relation avecle conept de cocntrat social.
+Bien, oui, c'est une idée puissante, extraordinairement puissante, une idée qui n'a jamais été énoncée, nulle part, si clairement, en relation avec le concept de contrat social entre une profession, et un Peuple, une Société.
 
 Mais je le répète :
 * le plus important d'un contrat est que dans les faits, ses termes soient respectés de part et d'autre.
